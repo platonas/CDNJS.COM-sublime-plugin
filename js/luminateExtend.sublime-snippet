@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/luminateExtend/${1:1.8.1}/luminateExtend.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-luminateExtend</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

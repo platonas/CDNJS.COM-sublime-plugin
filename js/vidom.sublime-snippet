@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vidom/${1:0.7.1}/vidom.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-vidom</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

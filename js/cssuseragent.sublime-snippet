@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cssuseragent/${1:2.1.31}/cssua.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-cssuseragent</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

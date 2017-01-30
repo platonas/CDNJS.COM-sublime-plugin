@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/twilio.js/${1:1.2.0}/twilio.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-twilio.js</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

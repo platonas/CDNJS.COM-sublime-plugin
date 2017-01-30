@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/smart-underline/${1:4.2.1}/js/smart-underline.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-smart-underline</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

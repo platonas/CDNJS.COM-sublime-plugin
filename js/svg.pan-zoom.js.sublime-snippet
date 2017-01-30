@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/svg.pan-zoom.js/${1:2.8.0}/svg.pan-zoom.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-svg.pan-zoom.js</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

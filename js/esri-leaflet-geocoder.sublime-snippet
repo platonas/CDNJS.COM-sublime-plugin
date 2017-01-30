@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/esri-leaflet-geocoder/${1:2.2.3}/esri-leaflet-geocoder.js"></script>
+]]></content>
+<tabTrigger>cdn-esri-leaflet-geocoder</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

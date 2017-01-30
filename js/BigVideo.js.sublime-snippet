@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/BigVideo.js/${1:1.1.5}/lib/bigvideo.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-BigVideo.js</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

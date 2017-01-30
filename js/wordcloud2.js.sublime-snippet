@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/${1:1.0.5}/wordcloud2.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-wordcloud2.js</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

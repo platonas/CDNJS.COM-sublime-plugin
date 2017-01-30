@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spinkit/${1:1.2.5}/spinkit.${2:min.}css" />
+]]></content>
+<tabTrigger>cdn-spinkit</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

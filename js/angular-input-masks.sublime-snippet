@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-input-masks/${1:2.5.0}/angular-input-masks.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-angular-input-masks</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

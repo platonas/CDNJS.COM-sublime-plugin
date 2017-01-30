@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexiblegs-css/${1:5.5.3}/flexiblegs-css.${2:min.}css" />
+]]></content>
+<tabTrigger>cdn-flexiblegs-css</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

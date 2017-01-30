@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/${1:1.1.7}/jquery.linkify.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-jQuery-linkify</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

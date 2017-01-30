@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paradeiser/${1:0.4.3}/{2:min/}paradeiser.${2:min.}css" />
+]]></content>
+<tabTrigger>cdn-paradeiser</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

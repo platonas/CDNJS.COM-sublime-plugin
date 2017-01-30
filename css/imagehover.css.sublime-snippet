@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/imagehover.css/${1:1.0}/css/imagehover.${2:min.}css" />
+]]></content>
+<tabTrigger>cdn-imagehover.css</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

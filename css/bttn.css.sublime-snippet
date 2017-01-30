@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bttn.css/${1:0.2.4}/bttn.${2:min.}css" />
+]]></content>
+<tabTrigger>cdn-bttn.css</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-material-data-table/${1:0.10.10}/md-data-table.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-angular-material-data-table</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

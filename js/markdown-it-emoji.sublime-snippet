@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-emoji/${1:1.3.0}/markdown-it-emoji.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-markdown-it-emoji</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

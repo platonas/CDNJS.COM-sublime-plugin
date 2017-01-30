@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.freedraw/${1:2.0.1}/leaflet-freedraw.web.js"></script>
+]]></content>
+<tabTrigger>cdn-leaflet.freedraw</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

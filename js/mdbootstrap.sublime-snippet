@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/${1:4.3.0}/js/mdb.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-mdbootstrap</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

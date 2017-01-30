@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQRangeSlider/${1:5.7.2}/jQRangeSlider.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-jQRangeSlider</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

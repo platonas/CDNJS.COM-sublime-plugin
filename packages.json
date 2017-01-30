@@ -1,0 +1,21 @@
+{
+	"schema_version": "0.0.2",
+	"packages": [
+		{
+			"name": "CDNjs Snippets",
+			"description": "CDNjs libraries for Sublime Text.",
+			"author": "Platonas Koreas",
+			"homepage": "https://www.platonas.org",
+			"labels": ["cdn", "js", "css"],
+			"releases": [
+				{
+					"sublime_text": "<=3126",
+					"platforms": ["windows", "osx", "linux"],
+					"version": "0.0.2",
+					"url": "https://www.platonas.org",
+					"date": "2017-30-01 10:00:00"
+				}
+			]
+		}
+	]
+}

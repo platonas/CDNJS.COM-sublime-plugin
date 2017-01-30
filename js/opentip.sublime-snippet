@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/opentip/${1:2.4.6}/downloads/opentip-jquery.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-opentip</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

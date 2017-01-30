@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/antd-mobile/${1:0.9.14}/antd-mobile.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-antd-mobile</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

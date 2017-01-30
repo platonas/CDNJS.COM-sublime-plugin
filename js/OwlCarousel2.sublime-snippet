@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/${1:2.2.0}/owl.carousel.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-OwlCarousel2</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

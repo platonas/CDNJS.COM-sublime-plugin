@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/${1:1.7.1}/leaflet-geocoder-mapzen.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-leaflet-geocoder-mapzen</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

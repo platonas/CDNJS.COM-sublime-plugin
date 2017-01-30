@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/css3finalize/${1:4.1.0}/jquery.css3finalize.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-css3finalize</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

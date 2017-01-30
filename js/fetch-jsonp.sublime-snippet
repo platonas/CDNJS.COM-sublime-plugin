@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch-jsonp/${1:1.0.5}/fetch-jsonp.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-fetch-jsonp</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

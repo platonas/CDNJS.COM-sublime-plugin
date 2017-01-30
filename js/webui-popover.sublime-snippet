@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/webui-popover/${1:2.1.15}/jquery.webui-popover.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-webui-popover</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

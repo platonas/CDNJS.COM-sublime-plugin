@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/air-datepicker/${1:2.2.3}/js/datepicker.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-air-datepicker</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

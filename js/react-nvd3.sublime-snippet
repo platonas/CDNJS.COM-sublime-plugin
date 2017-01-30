@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-nvd3/${1:0.5.7}/react-nvd3.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-react-nvd3</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

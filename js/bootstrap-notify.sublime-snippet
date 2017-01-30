@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-notify/${1:0.2.0}/js/bootstrap-notify.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-bootstrap-notify</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

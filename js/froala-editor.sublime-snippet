@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/${1:2.4.1}/js/froala_editor.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-froala-editor</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

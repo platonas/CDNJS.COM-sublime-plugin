@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-cordova/${1:0.1.27-alpha}/ng-cordova.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-ng-cordova</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

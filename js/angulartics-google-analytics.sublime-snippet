@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angulartics-google-analytics/${1:0.4.0}/angulartics-ga.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-angulartics-google-analytics</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

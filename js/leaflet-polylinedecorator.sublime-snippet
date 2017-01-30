@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-polylinedecorator/${1:1.1.0}/leaflet.polylineDecorator.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-leaflet-polylinedecorator</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

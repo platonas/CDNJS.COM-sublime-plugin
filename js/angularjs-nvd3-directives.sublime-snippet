@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-nvd3-directives/${1:0.0.8}/angularjs-nvd3-directives.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-angularjs-nvd3-directives</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

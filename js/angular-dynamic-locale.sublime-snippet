@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-dynamic-locale/${1:0.1.32}/tmhDynamicLocale.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-angular-dynamic-locale</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

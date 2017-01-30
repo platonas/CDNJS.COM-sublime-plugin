@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ui-timepicker-addon/${1:1.6.3}/jquery-ui-timepicker-addon.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-jquery-ui-timepicker-addon</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

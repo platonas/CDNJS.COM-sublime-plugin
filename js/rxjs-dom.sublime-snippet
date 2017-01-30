@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs-dom/${1:7.0.3}/rx.dom.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-rxjs-dom</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

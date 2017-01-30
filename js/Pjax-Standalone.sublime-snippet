@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Pjax-Standalone/${1:0.6.0}/pjax-standalone.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-Pjax-Standalone</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

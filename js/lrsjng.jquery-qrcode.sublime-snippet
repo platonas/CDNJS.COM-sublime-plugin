@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/lrsjng.jquery-qrcode/${1:0.14.0}/jquery-qrcode.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-lrsjng.jquery-qrcode</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/magicsuggest/${1:2.1.4}/magicsuggest-${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-magicsuggest</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>

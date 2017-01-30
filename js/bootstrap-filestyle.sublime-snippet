@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-filestyle/${1:1.2.1}/bootstrap-filestyle.${2:min.}js"></script>
+]]></content>
+<tabTrigger>cdn-bootstrap-filestyle</tabTrigger>
+<scope>text.html</scope>
+<scope>text.css</scope>
+<scope>text.js</scope>
+<scope>source.php</scope>
+<scope>source.python</scope>
+</snippet>
