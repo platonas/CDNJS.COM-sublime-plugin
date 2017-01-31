@@ -5,7 +5,7 @@ A sublime plugin complete with cdnjs snippets
 
 ![alt text](https://github.com/platonas/cdnjs-sublime-plugin/blob/master/cdnjs.gif  "CDNjs")
 
-Contact: [platonas@gmail.com](mailto:platonas[at]gmail.com)
+Contact: [platonas@gmail.com](mailto:platonas@gmail.com)
 
 
 ### Installation
