@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-filemanager/${1:1.5.1}/angular-filemanager.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-filemanager</tabTrigger>
+<description>Angular-filemanager</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

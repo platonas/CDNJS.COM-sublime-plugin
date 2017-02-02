@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/diff2html/${1:2.0.12}/diff2html.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-diff2html</tabTrigger>
+<description>Diff2html</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

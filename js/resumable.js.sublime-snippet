@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/resumable.js/${1:1.0.2}/resumable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-resumable.js</tabTrigger>
+<description>Resumable.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

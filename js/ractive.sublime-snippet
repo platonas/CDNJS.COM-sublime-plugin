@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ractive/${1:0.9.0-build-65}/ractive.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ractive</tabTrigger>
+<description>Ractive</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

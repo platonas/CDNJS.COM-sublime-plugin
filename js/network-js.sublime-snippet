@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/network-js/${1:2.1.0}/network.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-network-js</tabTrigger>
+<description>Network-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-vertxbus/${1:6.1.1}/angular-vertxbus.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-vertxbus</tabTrigger>
+<description>Angular-vertxbus</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

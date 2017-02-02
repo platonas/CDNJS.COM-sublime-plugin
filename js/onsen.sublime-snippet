@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/onsen/${1:2.0.5}/js/onsenui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-onsen</tabTrigger>
+<description>Onsen</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

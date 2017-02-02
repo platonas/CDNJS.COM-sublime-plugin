@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ocanvas/${1:2.8.7}/ocanvas.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ocanvas</tabTrigger>
+<description>Ocanvas</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

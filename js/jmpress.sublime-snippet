@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jmpress/${1:0.4.5}/jmpress.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jmpress</tabTrigger>
+<description>Jmpress</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

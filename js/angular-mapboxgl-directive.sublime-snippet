@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-mapboxgl-directive/${1:0.28.4}/angular-mapboxgl-directive.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-mapboxgl-directive</tabTrigger>
+<description>Angular-mapboxgl-directive</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

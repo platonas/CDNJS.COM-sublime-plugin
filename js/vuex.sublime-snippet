@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vuex/${1:2.1.1}/vuex.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vuex</tabTrigger>
+<description>Vuex</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

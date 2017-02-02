@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jcalculator/${1:1403955268}/jcalculator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jcalculator</tabTrigger>
+<description>Jcalculator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

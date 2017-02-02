@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/basis.js/${1:1.10.0}/basis.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-basis.js</tabTrigger>
+<description>Basis.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-strap/${1:2.3.12}/angular-strap.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-strap</tabTrigger>
+<description>Angular-strap</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

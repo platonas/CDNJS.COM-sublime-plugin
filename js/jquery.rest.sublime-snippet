@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.rest/${1:1.0.2}/jquery.rest.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.rest</tabTrigger>
+<description>Jquery.rest</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-contextmenu/${1:1.2.1}/leaflet.contextmenu.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet-contextmenu</tabTrigger>
+<description>Leaflet-contextmenu</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

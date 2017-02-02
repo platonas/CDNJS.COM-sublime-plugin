@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/oauth-io/${1:0.6.1}/oauth.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-oauth-io</tabTrigger>
+<description>Oauth-io</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/${1:2.8.0}/css/flag-icon.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-flag-icon-css</tabTrigger>
+<description>Flag-icon-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

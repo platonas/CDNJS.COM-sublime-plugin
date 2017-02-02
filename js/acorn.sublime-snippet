@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/acorn/${1:4.0.4}/acorn.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-acorn</tabTrigger>
+<description>Acorn</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

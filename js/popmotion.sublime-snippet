@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/popmotion/${1:4.3.4}/popmotion.global.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-popmotion</tabTrigger>
+<description>Popmotion</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

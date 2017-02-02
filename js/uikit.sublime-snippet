@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/${1:2.27.2}/js/uikit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-uikit</tabTrigger>
+<description>Uikit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

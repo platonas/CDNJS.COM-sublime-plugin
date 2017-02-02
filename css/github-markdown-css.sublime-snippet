@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/${1:2.4.1}/github-markdown.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-github-markdown-css</tabTrigger>
+<description>Github-markdown-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

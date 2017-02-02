@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-cache/${1:4.6.0}/angular-cache.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-cache</tabTrigger>
+<description>Angular-cache</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

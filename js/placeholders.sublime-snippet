@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/${1:4.0.1}/placeholders.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-placeholders</tabTrigger>
+<description>Placeholders</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

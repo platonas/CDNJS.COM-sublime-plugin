@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-autotab/${1:1.9.2}/js/jquery.autotab.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-autotab</tabTrigger>
+<description>Jquery-autotab</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

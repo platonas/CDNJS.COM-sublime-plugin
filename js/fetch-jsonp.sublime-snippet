@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch-jsonp/${1:1.0.5}/fetch-jsonp.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fetch-jsonp</tabTrigger>
+<description>Fetch-jsonp</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

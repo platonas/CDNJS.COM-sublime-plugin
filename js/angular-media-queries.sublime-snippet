@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-media-queries/${1:0.6.1}/match-media.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-media-queries</tabTrigger>
+<description>Angular-media-queries</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

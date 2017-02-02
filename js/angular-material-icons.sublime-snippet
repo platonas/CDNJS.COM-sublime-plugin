@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-material-icons/${1:0.7.1}/angular-material-icons.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-material-icons</tabTrigger>
+<description>Angular-material-icons</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

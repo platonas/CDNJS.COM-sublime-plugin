@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-highlightjs/${1:0.6.3}/angular-highlightjs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-highlightjs</tabTrigger>
+<description>Angular-highlightjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

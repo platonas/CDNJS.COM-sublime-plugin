@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/t3js/${1:2.7.0}/t3.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-t3js</tabTrigger>
+<description>T3js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

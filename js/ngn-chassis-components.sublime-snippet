@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ngn-chassis-components/${1:1.0.5}/chassis-cycle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ngn-chassis-components</tabTrigger>
+<description>Ngn-chassis-components</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

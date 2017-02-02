@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/portal/${1:1.1.1}/portal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-portal</tabTrigger>
+<description>Portal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

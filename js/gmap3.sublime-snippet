@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gmap3/${1:7.2.0}/gmap3.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gmap3</tabTrigger>
+<description>Gmap3</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

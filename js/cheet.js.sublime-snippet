@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cheet.js/${1:0.3.3}/cheet.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cheet.js</tabTrigger>
+<description>Cheet.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

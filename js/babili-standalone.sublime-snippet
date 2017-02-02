@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/babili-standalone/${1:0.0.10}/babili.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-babili-standalone</tabTrigger>
+<description>Babili-standalone</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

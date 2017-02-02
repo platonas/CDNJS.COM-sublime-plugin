@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/hasher/${1:1.2.0}/hasher.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-hasher</tabTrigger>
+<description>Hasher</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

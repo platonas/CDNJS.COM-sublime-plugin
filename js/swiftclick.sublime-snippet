@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/swiftclick/${1:2.1.0}/swiftclick.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-swiftclick</tabTrigger>
+<description>Swiftclick</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

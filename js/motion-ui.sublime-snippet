@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/${1:1.2.2}/motion-ui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-motion-ui</tabTrigger>
+<description>Motion-ui</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

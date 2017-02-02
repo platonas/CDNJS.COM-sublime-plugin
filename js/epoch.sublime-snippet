@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/epoch/${1:0.8.4}/js/epoch.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-epoch</tabTrigger>
+<description>Epoch</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

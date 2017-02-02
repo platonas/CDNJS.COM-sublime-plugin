@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.marionette/${1:3.1.0}/backbone.marionette.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backbone.marionette</tabTrigger>
+<description>Backbone.marionette</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

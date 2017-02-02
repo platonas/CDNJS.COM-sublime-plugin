@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-form-serializer/${1:1.2.0}/jQuery-form-serializer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-form-serializer</tabTrigger>
+<description>Jquery-form-serializer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

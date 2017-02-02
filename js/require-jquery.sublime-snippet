@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/require-jquery/${1:0.25.0}/require-jquery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-require-jquery</tabTrigger>
+<description>Require-jquery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

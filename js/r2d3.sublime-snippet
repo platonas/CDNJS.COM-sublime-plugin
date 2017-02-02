@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/r2d3/${1:0.2.0}/r2d3.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-r2d3</tabTrigger>
+<description>R2d3</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

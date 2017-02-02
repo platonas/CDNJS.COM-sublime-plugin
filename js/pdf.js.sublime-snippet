@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${1:1.7.235}/pdf.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pdf.js</tabTrigger>
+<description>Pdf.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

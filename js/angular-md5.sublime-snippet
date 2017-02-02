@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-md5/${1:0.1.10}/angular-md5.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-md5</tabTrigger>
+<description>Angular-md5</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

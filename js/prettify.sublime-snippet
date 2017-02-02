@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/prettify/${1:r298}/prettify.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-prettify</tabTrigger>
+<description>Prettify</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

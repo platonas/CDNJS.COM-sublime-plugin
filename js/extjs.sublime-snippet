@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/extjs/${1:6.2.0}/ext-all.js"></script>
 ]]></content>
 <tabTrigger>cdn-extjs</tabTrigger>
+<description>Extjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

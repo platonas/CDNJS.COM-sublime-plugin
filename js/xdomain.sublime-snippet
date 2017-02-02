@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/xdomain/${1:0.7.5}/xdomain.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-xdomain</tabTrigger>
+<description>Xdomain</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

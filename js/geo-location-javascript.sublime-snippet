@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/geo-location-javascript/${1:0.4.8}/geo-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-geo-location-javascript</tabTrigger>
+<description>Geo-location-javascript</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

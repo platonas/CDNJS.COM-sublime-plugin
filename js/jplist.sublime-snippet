@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jplist/${1:5.2.0}/js/jplist.core.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jplist</tabTrigger>
+<description>Jplist</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

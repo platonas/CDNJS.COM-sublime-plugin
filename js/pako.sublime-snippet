@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/${1:1.0.4}/pako.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pako</tabTrigger>
+<description>Pako</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

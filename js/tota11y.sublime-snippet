@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tota11y/${1:0.1.6}/tota11y.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tota11y</tabTrigger>
+<description>Tota11y</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

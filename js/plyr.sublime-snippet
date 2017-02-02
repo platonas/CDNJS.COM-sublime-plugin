@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/${1:2.0.11}/plyr.js"></script>
 ]]></content>
 <tabTrigger>cdn-plyr</tabTrigger>
+<description>Plyr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

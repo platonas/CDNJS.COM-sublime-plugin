@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/${1:0.9.5}/elasticlunr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-elasticlunr</tabTrigger>
+<description>Elasticlunr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

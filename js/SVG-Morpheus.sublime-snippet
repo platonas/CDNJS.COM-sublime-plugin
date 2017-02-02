@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/SVG-Morpheus/${1:0.3.2}/svg-morpheus.js"></script>
 ]]></content>
 <tabTrigger>cdn-SVG-Morpheus</tabTrigger>
+<description>Svg-morpheus</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

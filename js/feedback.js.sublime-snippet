@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/feedback.js/${1:2012.10.17}/feedback.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-feedback.js</tabTrigger>
+<description>Feedback.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

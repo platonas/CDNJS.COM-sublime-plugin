@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/prettyCheckable/${1:2.1.2}/prettyCheckable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-prettyCheckable</tabTrigger>
+<description>Prettycheckable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

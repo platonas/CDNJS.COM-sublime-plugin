@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/elevatezoom/${1:3.0.8}/jquery.elevatezoom.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-elevatezoom</tabTrigger>
+<description>Elevatezoom</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

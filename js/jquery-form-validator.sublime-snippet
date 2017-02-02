@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/${1:2.3.54}/jquery.form-validator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-form-validator</tabTrigger>
+<description>Jquery-form-validator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

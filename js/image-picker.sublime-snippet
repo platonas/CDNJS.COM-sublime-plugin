@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/image-picker/${1:0.3.0}/image-picker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-image-picker</tabTrigger>
+<description>Image-picker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

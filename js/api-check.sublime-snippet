@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/api-check/${1:7.5.5}/api-check.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-api-check</tabTrigger>
+<description>Api-check</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/${1:0.2.0}/leaflet-heat.js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet.heat</tabTrigger>
+<description>Leaflet.heat</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

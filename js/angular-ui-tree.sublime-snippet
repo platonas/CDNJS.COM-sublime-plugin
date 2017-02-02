@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-tree/${1:2.22.2}/angular-ui-tree.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-ui-tree</tabTrigger>
+<description>Angular-ui-tree</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

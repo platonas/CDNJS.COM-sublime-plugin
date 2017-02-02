@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts-ng/${1:1.0.0}/highcharts-ng.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-highcharts-ng</tabTrigger>
+<description>Highcharts-ng</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

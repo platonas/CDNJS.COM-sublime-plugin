@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/kartograph-js/${1:0.8.7}/kartograph.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-kartograph-js</tabTrigger>
+<description>Kartograph-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/txt.wav/${1:1.0.5}/js/txt.wav.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-txt.wav</tabTrigger>
+<description>Txt.wav</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

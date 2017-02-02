@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/${1:1.0.2}/particles.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-particlesjs</tabTrigger>
+<description>Particlesjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

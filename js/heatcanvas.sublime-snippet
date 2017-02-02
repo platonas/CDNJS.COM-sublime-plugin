@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/heatcanvas/${1:1.2.3}/heatcanvas.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-heatcanvas</tabTrigger>
+<description>Heatcanvas</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

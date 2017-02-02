@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/${1:2.4.1}/css/simple-line-icons.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-simple-line-icons</tabTrigger>
+<description>Simple-line-icons</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

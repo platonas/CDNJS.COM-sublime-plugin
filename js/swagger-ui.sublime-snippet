@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/${1:2.2.10}/swagger-ui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-swagger-ui</tabTrigger>
+<description>Swagger-ui</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

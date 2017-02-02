@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/inspire-tree/${1:1.10.6}/inspire-tree.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-inspire-tree</tabTrigger>
+<description>Inspire-tree</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

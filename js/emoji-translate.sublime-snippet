@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/emoji-translate/${1:1.0.2}/emoji-translate.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-emoji-translate</tabTrigger>
+<description>Emoji-translate</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

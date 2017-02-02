@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.ripples/${1:0.5.3}/jquery.ripples.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.ripples</tabTrigger>
+<description>Jquery.ripples</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/hellojs/${1:1.14.0}/hello.all.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-hellojs</tabTrigger>
+<description>Hellojs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aragonite-form-validator/${1:1.1.2}/js/aragonite.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-aragonite-form-validator</tabTrigger>
+<description>Aragonite-form-validator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

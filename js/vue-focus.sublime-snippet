@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-focus/${1:2.1.0}/vue-focus.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vue-focus</tabTrigger>
+<description>Vue-focus</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

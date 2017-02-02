@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-validator/${1:1.2.9}/angular-validator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-validator</tabTrigger>
+<description>Angular-validator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

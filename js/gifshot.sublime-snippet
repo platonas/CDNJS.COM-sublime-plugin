@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gifshot/${1:0.3.2}/gifshot.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gifshot</tabTrigger>
+<description>Gifshot</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

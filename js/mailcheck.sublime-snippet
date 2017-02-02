@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mailcheck/${1:1.1.2}/mailcheck.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-mailcheck</tabTrigger>
+<description>Mailcheck</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

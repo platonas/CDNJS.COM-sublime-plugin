@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/camanjs/${1:4.1.2}/caman.full.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-camanjs</tabTrigger>
+<description>Camanjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

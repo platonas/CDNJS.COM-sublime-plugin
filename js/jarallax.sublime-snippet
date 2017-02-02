@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jarallax/${1:1.7.2}/jarallax.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jarallax</tabTrigger>
+<description>Jarallax</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

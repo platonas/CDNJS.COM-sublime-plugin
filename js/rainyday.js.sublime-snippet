@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/rainyday.js/${1:0.1.2}/rainyday.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-rainyday.js</tabTrigger>
+<description>Rainyday.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

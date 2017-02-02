@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-currency/${1:1.1.5}/ng-currency.js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-currency</tabTrigger>
+<description>Ng-currency</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

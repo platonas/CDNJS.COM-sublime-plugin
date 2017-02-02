@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/multiple.js/${1:0.0.1}/multiple.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-multiple.js</tabTrigger>
+<description>Multiple.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

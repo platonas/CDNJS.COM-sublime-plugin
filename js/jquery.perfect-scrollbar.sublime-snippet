@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/${1:0.6.16}/js/perfect-scrollbar.jquery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.perfect-scrollbar</tabTrigger>
+<description>Jquery.perfect-scrollbar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

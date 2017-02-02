@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/${1:3.2.1}/fuckadblock.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fuckadblock</tabTrigger>
+<description>Fuckadblock</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

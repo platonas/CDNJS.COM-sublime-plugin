@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-JSONP/${1:2.4.0}/jquery.jsonp.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jQuery-JSONP</tabTrigger>
+<description>Jquery-jsonp</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.ui-contextmenu/${1:1.14.0}/jquery.ui-contextmenu.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.ui-contextmenu</tabTrigger>
+<description>Jquery.ui-contextmenu</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

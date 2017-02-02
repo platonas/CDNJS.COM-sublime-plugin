@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/reflect-metadata/${1:0.1.9}/Reflect.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-reflect-metadata</tabTrigger>
+<description>Reflect-metadata</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

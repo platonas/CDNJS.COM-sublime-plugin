@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui-react/${1:0.64.4}/semantic-ui-react.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-semantic-ui-react</tabTrigger>
+<description>Semantic-ui-react</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

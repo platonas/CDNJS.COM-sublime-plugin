@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/${1:0.1.1}/list.pagination.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-list.pagination.js</tabTrigger>
+<description>List.pagination.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

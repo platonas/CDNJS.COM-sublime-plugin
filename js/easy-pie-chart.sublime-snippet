@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/easy-pie-chart/${1:2.1.6}/jquery.easypiechart.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-easy-pie-chart</tabTrigger>
+<description>Easy-pie-chart</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

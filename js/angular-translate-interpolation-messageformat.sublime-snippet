@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate-interpolation-messageformat/${1:2.13.1}/angular-translate-interpolation-messageformat.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-translate-interpolation-messageformat</tabTrigger>
+<description>Angular-translate-interpolation-messageformat</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

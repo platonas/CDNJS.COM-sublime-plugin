@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/alertifyjs-alertify.js/${1:1.0.11}/js/alertify.js"></script>
 ]]></content>
 <tabTrigger>cdn-alertifyjs-alertify.js</tabTrigger>
+<description>Alertifyjs-alertify.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

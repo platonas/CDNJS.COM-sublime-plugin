@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ga-lite/${1:1.1.0}/ga-lite.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ga-lite</tabTrigger>
+<description>Ga-lite</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

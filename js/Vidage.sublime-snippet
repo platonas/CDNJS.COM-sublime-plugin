@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Vidage/${1:0.3.0}/scripts/Vidage.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Vidage</tabTrigger>
+<description>Vidage</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

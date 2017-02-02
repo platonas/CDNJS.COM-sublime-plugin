@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/${1:0.7.1}/katex.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-KaTeX</tabTrigger>
+<description>Katex</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

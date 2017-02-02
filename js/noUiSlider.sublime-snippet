@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/${1:9.2.0}/nouislider.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-noUiSlider</tabTrigger>
+<description>Nouislider</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

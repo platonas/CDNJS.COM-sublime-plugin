@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fluidvids.js/${1:2.4.1}/fluidvids.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fluidvids.js</tabTrigger>
+<description>Fluidvids.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

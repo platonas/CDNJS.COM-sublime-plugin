@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/valid.js/${1:1.2.5}/validate.js"></script>
 ]]></content>
 <tabTrigger>cdn-valid.js</tabTrigger>
+<description>Valid.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

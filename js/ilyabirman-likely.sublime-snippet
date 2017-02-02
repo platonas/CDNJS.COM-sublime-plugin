@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ilyabirman-likely/${1:2.2.1}/likely.js"></script>
 ]]></content>
 <tabTrigger>cdn-ilyabirman-likely</tabTrigger>
+<description>Ilyabirman-likely</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

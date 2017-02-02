@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-motion/${1:0.0.3}/Spring.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-motion</tabTrigger>
+<description>React-motion</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

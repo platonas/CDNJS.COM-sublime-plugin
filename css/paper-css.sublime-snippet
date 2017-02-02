@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/${1:0.2.3}/paper.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-paper-css</tabTrigger>
+<description>Paper-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

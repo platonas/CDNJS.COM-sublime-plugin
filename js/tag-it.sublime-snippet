@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tag-it/${1:2.0}/js/tag-it.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tag-it</tabTrigger>
+<description>Tag-it</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

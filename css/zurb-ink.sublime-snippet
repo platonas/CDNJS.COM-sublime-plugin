@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/zurb-ink/${1:1.0.5}/ink.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-zurb-ink</tabTrigger>
+<description>Zurb-ink</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

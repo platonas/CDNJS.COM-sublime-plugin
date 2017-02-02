@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/opal/${1:0.3.43}/opal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-opal</tabTrigger>
+<description>Opal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

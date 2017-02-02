@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/webcamjs/${1:1.0.16}/webcam.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-webcamjs</tabTrigger>
+<description>Webcamjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

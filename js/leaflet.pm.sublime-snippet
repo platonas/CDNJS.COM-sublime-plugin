@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.pm/${1:0.13.0}/leaflet.pm.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet.pm</tabTrigger>
+<description>Leaflet.pm</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

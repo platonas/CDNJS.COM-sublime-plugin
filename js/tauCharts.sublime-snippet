@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tauCharts/${1:0.9.4}/tauCharts.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tauCharts</tabTrigger>
+<description>Taucharts</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

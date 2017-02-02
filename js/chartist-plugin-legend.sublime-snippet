@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/chartist-plugin-legend/${1:0.6.0}/chartist-plugin-legend.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-chartist-plugin-legend</tabTrigger>
+<description>Chartist-plugin-legend</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

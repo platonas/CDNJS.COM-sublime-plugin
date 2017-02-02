@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/${1:2.22.0}/js/blueimp-gallery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-blueimp-gallery</tabTrigger>
+<description>Blueimp-gallery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

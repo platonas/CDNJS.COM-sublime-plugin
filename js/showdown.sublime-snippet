@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/${1:1.6.2}/showdown.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-showdown</tabTrigger>
+<description>Showdown</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

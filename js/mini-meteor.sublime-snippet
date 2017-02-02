@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mini-meteor/${1:1.0.1}/mini-meteor.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-mini-meteor</tabTrigger>
+<description>Mini-meteor</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

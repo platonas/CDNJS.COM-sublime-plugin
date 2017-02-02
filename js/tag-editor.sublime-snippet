@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tag-editor/${1:1.0.20}/jquery.tag-editor.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tag-editor</tabTrigger>
+<description>Tag-editor</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/quo.js/${1:2.3.6}/quo.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-quo.js</tabTrigger>
+<description>Quo.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

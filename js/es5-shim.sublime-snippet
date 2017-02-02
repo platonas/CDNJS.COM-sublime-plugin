@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/${1:4.5.9}/es5-shim.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-es5-shim</tabTrigger>
+<description>Es5-shim</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/${1:2.6.3}/flexslider.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-flexslider</tabTrigger>
+<description>Flexslider</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.repeater/${1:1.2.1}/jquery.repeater.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.repeater</tabTrigger>
+<description>Jquery.repeater</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

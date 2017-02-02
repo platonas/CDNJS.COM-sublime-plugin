@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jic/${1:2.0.2}/JIC.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jic</tabTrigger>
+<description>Jic</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

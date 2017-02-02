@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vertx/${1:2.0.0}/vertxbus.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vertx</tabTrigger>
+<description>Vertx</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

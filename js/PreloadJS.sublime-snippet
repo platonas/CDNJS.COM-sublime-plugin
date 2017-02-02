@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/PreloadJS/${1:0.6.0}/preloadjs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-PreloadJS</tabTrigger>
+<description>Preloadjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

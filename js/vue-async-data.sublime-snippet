@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-async-data/${1:1.0.2}/vue-async-data.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vue-async-data</tabTrigger>
+<description>Vue-async-data</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

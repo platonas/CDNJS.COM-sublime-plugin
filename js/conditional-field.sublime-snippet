@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/conditional-field/${1:1.0.2}/conditional-field.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-conditional-field</tabTrigger>
+<description>Conditional-field</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

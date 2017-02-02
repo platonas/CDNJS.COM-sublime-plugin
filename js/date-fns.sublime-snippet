@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/date-fns/${1:1.27.1}/date_fns.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-date-fns</tabTrigger>
+<description>Date-fns</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

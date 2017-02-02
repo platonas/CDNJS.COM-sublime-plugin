@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-core/${1:2.1.9}/cloudinary-core.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cloudinary-core</tabTrigger>
+<description>Cloudinary-core</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

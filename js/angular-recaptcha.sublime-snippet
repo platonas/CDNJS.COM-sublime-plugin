@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-recaptcha/${1:4.0.1}/angular-recaptcha.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-recaptcha</tabTrigger>
+<description>Angular-recaptcha</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-slider/${1:2.2.6}/ng-slider.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-slider</tabTrigger>
+<description>Ng-slider</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

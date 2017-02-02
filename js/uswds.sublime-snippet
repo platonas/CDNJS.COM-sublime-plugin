@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/${1:0.14.0}/js/uswds.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-uswds</tabTrigger>
+<description>Uswds</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

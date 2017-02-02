@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/firebug-lite/${1:1.4.0}/firebug-lite.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-firebug-lite</tabTrigger>
+<description>Firebug-lite</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-price-format/${1:2.1}/jquery.priceformat.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-price-format</tabTrigger>
+<description>Jquery-price-format</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/emoji-picker/${1:1.0}/js/emoji-picker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-emoji-picker</tabTrigger>
+<description>Emoji-picker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

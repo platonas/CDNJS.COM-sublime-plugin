@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/viewport-units-buggyfill/${1:0.6.0}/viewport-units-buggyfill.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-viewport-units-buggyfill</tabTrigger>
+<description>Viewport-units-buggyfill</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/javascript-hooker/${1:0.2.3}/ba-hooker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-javascript-hooker</tabTrigger>
+<description>Javascript-hooker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-filter/${1:0.1.10}/vue-filter.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vue-filter</tabTrigger>
+<description>Vue-filter</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

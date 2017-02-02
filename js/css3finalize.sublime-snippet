@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/css3finalize/${1:4.1.0}/jquery.css3finalize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-css3finalize</tabTrigger>
+<description>Css3finalize</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

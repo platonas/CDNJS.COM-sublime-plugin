@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/noisy/${1:1.2}/jquery.noisy.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-noisy</tabTrigger>
+<description>Noisy</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

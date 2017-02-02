@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jxon/${1:1.6.1}/index.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jxon</tabTrigger>
+<description>Jxon</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gitter-sidecar/${1:1.2.4}/sidecar.js"></script>
 ]]></content>
 <tabTrigger>cdn-gitter-sidecar</tabTrigger>
+<description>Gitter-sidecar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

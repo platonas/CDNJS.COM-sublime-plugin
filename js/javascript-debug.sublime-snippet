@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/javascript-debug/${1:0.4}/ba-debug.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-javascript-debug</tabTrigger>
+<description>Javascript-debug</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

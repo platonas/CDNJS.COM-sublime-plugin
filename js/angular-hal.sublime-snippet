@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-hal/${1:2.3.0}/angular-hal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-hal</tabTrigger>
+<description>Angular-hal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

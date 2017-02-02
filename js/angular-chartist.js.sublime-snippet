@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-chartist.js/${1:4.3.0}/angular-chartist.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-chartist.js</tabTrigger>
+<description>Angular-chartist.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

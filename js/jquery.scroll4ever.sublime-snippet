@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.scroll4ever/${1:1.0.0}/jquery.scroll4ever.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.scroll4ever</tabTrigger>
+<description>Jquery.scroll4ever</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

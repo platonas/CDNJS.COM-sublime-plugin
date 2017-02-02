@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ui-map/${1:3.0-rc1}/jquery.ui.map.js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-ui-map</tabTrigger>
+<description>Jquery-ui-map</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

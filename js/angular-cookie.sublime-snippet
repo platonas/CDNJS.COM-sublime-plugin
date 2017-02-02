@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-cookie/${1:4.1.0}/angular-cookie.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-cookie</tabTrigger>
+<description>Angular-cookie</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

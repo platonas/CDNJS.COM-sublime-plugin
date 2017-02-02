@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/sbt/${1:1.1.11.20151208-1200}/sbt-core-dojo-amd.js"></script>
 ]]></content>
 <tabTrigger>cdn-sbt</tabTrigger>
+<description>Sbt</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

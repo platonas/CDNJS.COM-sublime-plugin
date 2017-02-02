@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/min/${1:1.5.0}/entireframework.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-min</tabTrigger>
+<description>Min</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

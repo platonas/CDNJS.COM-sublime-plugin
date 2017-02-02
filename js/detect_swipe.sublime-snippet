@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/detect_swipe/${1:2.1.3}/jquery.detect_swipe.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-detect_swipe</tabTrigger>
+<description>Detect_swipe</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

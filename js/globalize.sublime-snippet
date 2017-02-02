@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/globalize/${1:1.2.2}/globalize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-globalize</tabTrigger>
+<description>Globalize</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/${1:0.98.0}/css/materialize.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-materialize</tabTrigger>
+<description>Materialize</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

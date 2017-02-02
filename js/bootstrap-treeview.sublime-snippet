@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-treeview/${1:1.2.0}/bootstrap-treeview.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-treeview</tabTrigger>
+<description>Bootstrap-treeview</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

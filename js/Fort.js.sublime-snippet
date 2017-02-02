@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Fort.js/${1:2.0.0}/fort.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Fort.js</tabTrigger>
+<description>Fort.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

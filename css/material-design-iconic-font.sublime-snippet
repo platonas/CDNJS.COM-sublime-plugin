@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/${1:2.2.0}/css/material-design-iconic-font.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-material-design-iconic-font</tabTrigger>
+<description>Material-design-iconic-font</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

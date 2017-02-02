@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/javascript-state-machine/${1:2.0.0}/state-machine.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-javascript-state-machine</tabTrigger>
+<description>Javascript-state-machine</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

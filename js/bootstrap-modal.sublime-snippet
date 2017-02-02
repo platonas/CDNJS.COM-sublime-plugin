@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/${1:2.2.6}/js/bootstrap-modalmanager.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-modal</tabTrigger>
+<description>Bootstrap-modal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cinnamon.js/${1:1.0.6}/cinnamon.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cinnamon.js</tabTrigger>
+<description>Cinnamon.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

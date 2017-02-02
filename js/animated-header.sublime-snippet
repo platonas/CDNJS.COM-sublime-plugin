@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/animated-header/${1:0.0.1}/js/cbpAnimatedHeader.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-animated-header</tabTrigger>
+<description>Animated-header</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/labjs/${1:2.0.3}/LAB.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-labjs</tabTrigger>
+<description>Labjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

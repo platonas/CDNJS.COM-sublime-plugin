@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootpag/${1:1.0.7}/jquery.bootpag.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootpag</tabTrigger>
+<description>Bootpag</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

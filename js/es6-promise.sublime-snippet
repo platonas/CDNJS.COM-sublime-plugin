@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/${1:4.0.5}/es6-promise.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-es6-promise</tabTrigger>
+<description>Es6-promise</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

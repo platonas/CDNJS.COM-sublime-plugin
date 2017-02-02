@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/promiz/${1:1.0.6}/promiz.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-promiz</tabTrigger>
+<description>Promiz</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

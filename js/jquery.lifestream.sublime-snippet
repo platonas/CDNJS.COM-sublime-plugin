@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lifestream/${1:0.3.7}/jquery.lifestream.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.lifestream</tabTrigger>
+<description>Jquery.lifestream</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

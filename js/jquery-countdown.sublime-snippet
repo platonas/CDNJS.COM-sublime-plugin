@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-countdown/${1:2.0.2}/jquery.countdown.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-countdown</tabTrigger>
+<description>Jquery-countdown</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

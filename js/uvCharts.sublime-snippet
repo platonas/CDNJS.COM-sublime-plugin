@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/uvCharts/${1:1.1.5}/uvcharts.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-uvCharts</tabTrigger>
+<description>Uvcharts</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

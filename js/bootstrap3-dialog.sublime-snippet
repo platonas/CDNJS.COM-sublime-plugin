@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap3-dialog/${1:1.35.3}/js/bootstrap-dialog.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap3-dialog</tabTrigger>
+<description>Bootstrap3-dialog</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

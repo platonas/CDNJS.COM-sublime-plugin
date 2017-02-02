@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/${1:7.0.0}/mermaid.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-mermaid</tabTrigger>
+<description>Mermaid</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

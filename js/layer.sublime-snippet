@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/layer/${1:2.3}/layer.js"></script>
 ]]></content>
 <tabTrigger>cdn-layer</tabTrigger>
+<description>Layer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

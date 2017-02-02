@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-http-auth/${1:1.5.0}/http-auth-interceptor.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-http-auth</tabTrigger>
+<description>Angular-http-auth</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

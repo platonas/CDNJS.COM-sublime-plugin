@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/twine/${1:1.0.2}/twine.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-twine</tabTrigger>
+<description>Twine</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

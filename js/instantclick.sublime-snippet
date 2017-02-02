@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/instantclick/${1:3.0.1}/instantclick.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-instantclick</tabTrigger>
+<description>Instantclick</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

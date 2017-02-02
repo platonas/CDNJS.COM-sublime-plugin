@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/${1:1.7.1}/remarkable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-remarkable</tabTrigger>
+<description>Remarkable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

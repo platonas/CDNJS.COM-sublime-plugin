@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/svg-injector/${1:1.1.3}/svg-injector.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-svg-injector</tabTrigger>
+<description>Svg-injector</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

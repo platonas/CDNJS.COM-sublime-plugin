@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/geojs/${1:0.11.0}/geo.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-geojs</tabTrigger>
+<description>Geojs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/domainr-search-box/${1:0.0.14}/domainr-search-box.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-domainr-search-box</tabTrigger>
+<description>Domainr-search-box</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

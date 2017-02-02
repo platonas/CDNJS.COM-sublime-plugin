@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fitvids/${1:1.1.0}/jquery.fitvids.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fitvids</tabTrigger>
+<description>Fitvids</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

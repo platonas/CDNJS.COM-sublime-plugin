@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Jouele/${1:2.2.2}/jouele.js"></script>
 ]]></content>
 <tabTrigger>cdn-Jouele</tabTrigger>
+<description>Jouele</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

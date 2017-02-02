@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jsdiff/${1:3.2.0}/diff.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jsdiff</tabTrigger>
+<description>Jsdiff</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

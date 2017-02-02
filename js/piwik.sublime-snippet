@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/piwik/${1:3.0.1}/piwik.js"></script>
 ]]></content>
 <tabTrigger>cdn-piwik</tabTrigger>
+<description>Piwik</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

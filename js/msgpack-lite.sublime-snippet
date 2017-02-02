@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/msgpack-lite/${1:0.1.26}/msgpack.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-msgpack-lite</tabTrigger>
+<description>Msgpack-lite</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/yadcf/${1:0.9.1}/jquery.dataTables.yadcf.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-yadcf</tabTrigger>
+<description>Yadcf</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cookies-monster/${1:0.1.4}/cookies-monster.js"></script>
 ]]></content>
 <tabTrigger>cdn-cookies-monster</tabTrigger>
+<description>Cookies-monster</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

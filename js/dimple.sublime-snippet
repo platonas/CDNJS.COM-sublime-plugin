@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dimple/${1:2.3.0}/dimple.latest.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dimple</tabTrigger>
+<description>Dimple</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

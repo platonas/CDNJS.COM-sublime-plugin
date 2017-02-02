@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/OverlappingMarkerSpiderfier/${1:0.3.3}/oms.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-OverlappingMarkerSpiderfier</tabTrigger>
+<description>Overlappingmarkerspiderfier</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

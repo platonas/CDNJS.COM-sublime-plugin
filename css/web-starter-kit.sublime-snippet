@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/web-starter-kit/${1:0.2.0-beta}/styles/main.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-web-starter-kit</tabTrigger>
+<description>Web-starter-kit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

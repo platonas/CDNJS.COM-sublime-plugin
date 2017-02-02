@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/TimeMe.js/${1:2.0.0}/timeme.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-TimeMe.js</tabTrigger>
+<description>Timeme.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

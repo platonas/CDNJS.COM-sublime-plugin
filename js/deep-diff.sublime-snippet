@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/deep-diff/${1:0.3.3}/deep-diff.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-deep-diff</tabTrigger>
+<description>Deep-diff</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

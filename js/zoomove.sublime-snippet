@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/zoomove/${1:1.2.1}/zoomove.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-zoomove</tabTrigger>
+<description>Zoomove</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

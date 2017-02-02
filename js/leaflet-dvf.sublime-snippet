@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-dvf/${1:0.3.0}/leaflet-dvf.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet-dvf</tabTrigger>
+<description>Leaflet-dvf</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

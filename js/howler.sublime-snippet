@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/howler/${1:2.0.2}/howler.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-howler</tabTrigger>
+<description>Howler</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

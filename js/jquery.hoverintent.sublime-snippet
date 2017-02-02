@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.hoverintent/${1:1.8.1}/jquery.hoverIntent.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.hoverintent</tabTrigger>
+<description>Jquery.hoverintent</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

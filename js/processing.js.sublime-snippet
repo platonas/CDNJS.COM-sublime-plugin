@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/processing.js/${1:1.6.4}/processing.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-processing.js</tabTrigger>
+<description>Processing.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

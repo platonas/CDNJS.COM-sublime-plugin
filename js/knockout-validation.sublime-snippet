@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout-validation/${1:2.0.3}/knockout.validation.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-knockout-validation</tabTrigger>
+<description>Knockout-validation</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

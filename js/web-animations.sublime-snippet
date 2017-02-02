@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/web-animations/${1:2.2.2}/web-animations.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-web-animations</tabTrigger>
+<description>Web-animations</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

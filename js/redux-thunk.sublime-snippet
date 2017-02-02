@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/redux-thunk/${1:2.2.0}/redux-thunk.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-redux-thunk</tabTrigger>
+<description>Redux-thunk</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

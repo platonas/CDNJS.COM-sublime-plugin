@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/plates/${1:0.4.11}/plates.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-plates</tabTrigger>
+<description>Plates</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

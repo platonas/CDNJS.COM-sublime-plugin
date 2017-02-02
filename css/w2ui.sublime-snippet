@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/w2ui/${1:1.4.3}/w2ui.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-w2ui</tabTrigger>
+<description>W2ui</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

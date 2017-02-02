@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/klass/${1:1.4.1}/klass.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-klass</tabTrigger>
+<description>Klass</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

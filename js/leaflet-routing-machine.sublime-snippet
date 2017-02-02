@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-routing-machine/${1:3.2.5}/leaflet-routing-machine.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet-routing-machine</tabTrigger>
+<description>Leaflet-routing-machine</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

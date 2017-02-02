@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mori/${1:0.3.2}/mori.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-mori</tabTrigger>
+<description>Mori</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

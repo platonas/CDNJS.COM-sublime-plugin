@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ion-sound/${1:3.0.7}/js/ion.sound.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ion-sound</tabTrigger>
+<description>Ion-sound</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

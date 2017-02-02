@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.actual/${1:1.0.19}/jquery.actual.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.actual</tabTrigger>
+<description>Jquery.actual</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

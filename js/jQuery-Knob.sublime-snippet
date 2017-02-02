@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-Knob/${1:1.2.13}/jquery.knob.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jQuery-Knob</tabTrigger>
+<description>Jquery-knob</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

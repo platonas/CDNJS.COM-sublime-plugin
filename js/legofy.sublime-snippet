@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/legofy/${1:0.1.11}/legofy.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-legofy</tabTrigger>
+<description>Legofy</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

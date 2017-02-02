@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.BlackAndWhite/${1:0.3.8}/jquery.BlackAndWhite.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jQuery.BlackAndWhite</tabTrigger>
+<description>Jquery.blackandwhite</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

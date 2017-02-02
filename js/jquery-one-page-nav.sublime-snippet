@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-one-page-nav/${1:3.0.0}/jquery.nav.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-one-page-nav</tabTrigger>
+<description>Jquery-one-page-nav</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

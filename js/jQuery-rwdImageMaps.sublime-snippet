@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-rwdImageMaps/${1:1.6}/jquery.rwdImageMaps.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jQuery-rwdImageMaps</tabTrigger>
+<description>Jquery-rwdimagemaps</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

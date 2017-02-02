@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/oj.TwitterButton/${1:0.0.4}/oj.TwitterButton.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-oj.TwitterButton</tabTrigger>
+<description>Oj.twitterbutton</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

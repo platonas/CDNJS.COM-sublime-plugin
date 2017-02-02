@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jqgrid/${1:4.6.0}/js/jquery.jqGrid.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jqgrid</tabTrigger>
+<description>Jqgrid</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

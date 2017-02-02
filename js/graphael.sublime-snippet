@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/graphael/${1:0.5.1}/g.raphael-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-graphael</tabTrigger>
+<description>Graphael</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

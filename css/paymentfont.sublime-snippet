@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paymentfont/${1:1.1.2}/css/paymentfont.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-paymentfont</tabTrigger>
+<description>Paymentfont</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

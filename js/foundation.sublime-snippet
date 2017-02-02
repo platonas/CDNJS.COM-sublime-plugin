@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/${1:6.3.0}/js/foundation.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-foundation</tabTrigger>
+<description>Foundation</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

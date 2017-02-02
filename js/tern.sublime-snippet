@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tern/${1:0.20.0}/tern.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tern</tabTrigger>
+<description>Tern</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

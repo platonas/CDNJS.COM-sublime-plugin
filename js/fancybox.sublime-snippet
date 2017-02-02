@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/${1:2.1.5}/jquery.fancybox.pack.js"></script>
 ]]></content>
 <tabTrigger>cdn-fancybox</tabTrigger>
+<description>Fancybox</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

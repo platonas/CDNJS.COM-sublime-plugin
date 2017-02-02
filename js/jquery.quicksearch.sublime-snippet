@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.quicksearch/${1:2.3.1}/jquery.quicksearch.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.quicksearch</tabTrigger>
+<description>Jquery.quicksearch</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

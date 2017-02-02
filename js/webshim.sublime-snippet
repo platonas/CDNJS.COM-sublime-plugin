@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/webshim/${1:1.16.0}/minified/polyfiller.js"></script>
 ]]></content>
 <tabTrigger>cdn-webshim</tabTrigger>
+<description>Webshim</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

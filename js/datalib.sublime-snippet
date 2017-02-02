@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/datalib/${1:1.7.3}/datalib.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-datalib</tabTrigger>
+<description>Datalib</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

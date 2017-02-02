@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/minigrid/${1:1.6.5}/minigrid.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-minigrid</tabTrigger>
+<description>Minigrid</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

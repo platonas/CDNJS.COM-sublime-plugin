@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jssip/${1:3.0.0}/jssip.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jssip</tabTrigger>
+<description>Jssip</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

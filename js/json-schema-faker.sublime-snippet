@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/json-schema-faker/${1:0.4.0}/json-schema-faker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-json-schema-faker</tabTrigger>
+<description>Json-schema-faker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

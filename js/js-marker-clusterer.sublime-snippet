@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/js-marker-clusterer/${1:1.0.0}/markerclusterer_compiled.js"></script>
 ]]></content>
 <tabTrigger>cdn-js-marker-clusterer</tabTrigger>
+<description>Js-marker-clusterer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

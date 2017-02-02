@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/elfinder/${1:2.1.20}/js/elfinder.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-elfinder</tabTrigger>
+<description>Elfinder</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

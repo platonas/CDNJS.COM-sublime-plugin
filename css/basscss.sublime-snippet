@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/basscss/${1:8.0.3}/css/basscss.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-basscss</tabTrigger>
+<description>Basscss</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

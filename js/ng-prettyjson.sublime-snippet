@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-prettyjson/${1:0.2.0}/ng-prettyjson.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-prettyjson</tabTrigger>
+<description>Ng-prettyjson</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

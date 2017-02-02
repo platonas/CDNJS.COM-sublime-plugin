@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/circles/${1:0.0.6}/circles.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-circles</tabTrigger>
+<description>Circles</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

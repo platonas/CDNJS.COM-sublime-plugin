@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-timepicker/${1:0.5.2}/js/bootstrap-timepicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-timepicker</tabTrigger>
+<description>Bootstrap-timepicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

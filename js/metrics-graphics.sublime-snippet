@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/metrics-graphics/${1:2.11.0}/metricsgraphics.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-metrics-graphics</tabTrigger>
+<description>Metrics-graphics</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

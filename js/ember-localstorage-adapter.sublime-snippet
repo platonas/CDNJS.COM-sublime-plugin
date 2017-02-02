@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ember-localstorage-adapter/${1:0.3.1}/localstorage_adapter.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ember-localstorage-adapter</tabTrigger>
+<description>Ember-localstorage-adapter</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

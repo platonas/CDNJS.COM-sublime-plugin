@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/${1:1.4.1}/jquery.twbsPagination.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-twbs-pagination</tabTrigger>
+<description>Twbs-pagination</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

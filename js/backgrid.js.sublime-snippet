@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backgrid.js/${1:0.3.7}/backgrid.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backgrid.js</tabTrigger>
+<description>Backgrid.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

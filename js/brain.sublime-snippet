@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/brain/${1:0.6.3}/brain.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-brain</tabTrigger>
+<description>Brain</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

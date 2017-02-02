@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/reconnecting-websocket/${1:1.0.0}/reconnecting-websocket.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-reconnecting-websocket</tabTrigger>
+<description>Reconnecting-websocket</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

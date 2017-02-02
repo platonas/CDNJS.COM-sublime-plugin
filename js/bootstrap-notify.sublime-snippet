@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-notify/${1:0.2.0}/js/bootstrap-notify.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-notify</tabTrigger>
+<description>Bootstrap-notify</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-router-redux/${1:4.0.7}/ReactRouterRedux.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-router-redux</tabTrigger>
+<description>React-router-redux</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

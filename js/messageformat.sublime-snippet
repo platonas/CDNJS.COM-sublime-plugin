@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/messageformat/${1:0.3.1}/messageformat.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-messageformat</tabTrigger>
+<description>Messageformat</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/lory.js/${1:2.2.1}/lory.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-lory.js</tabTrigger>
+<description>Lory.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-relative-date/${1:2.1.0}/angular-relative-date.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-relative-date</tabTrigger>
+<description>Angular-relative-date</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dropdown.js/${1:0.0.2dev}/jquery.dropdown.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dropdown.js</tabTrigger>
+<description>Dropdown.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

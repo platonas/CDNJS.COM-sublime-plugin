@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/${1:2.6.0}/js/md5.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-blueimp-md5</tabTrigger>
+<description>Blueimp-md5</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

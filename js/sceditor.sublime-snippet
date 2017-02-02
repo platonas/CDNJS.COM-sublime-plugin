@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/sceditor/${1:1.5.2}/jquery.sceditor.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-sceditor</tabTrigger>
+<description>Sceditor</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

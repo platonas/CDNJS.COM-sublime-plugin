@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/maple.js/${1:1.5.0}/maple.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-maple.js</tabTrigger>
+<description>Maple.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

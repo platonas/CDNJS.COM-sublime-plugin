@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/flexie/${1:1.0.3}/flexie.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-flexie</tabTrigger>
+<description>Flexie</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

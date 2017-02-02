@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/${1:4.5.2}/tinymce.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tinymce</tabTrigger>
+<description>Tinymce</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/perfbar/${1:0.2.1}/perfbar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-perfbar</tabTrigger>
+<description>Perfbar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

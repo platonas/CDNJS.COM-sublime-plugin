@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/authy-form-helpers/${1:2.3}/form.authy.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-authy-form-helpers</tabTrigger>
+<description>Authy-form-helpers</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

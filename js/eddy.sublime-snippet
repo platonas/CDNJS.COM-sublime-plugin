@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/eddy/${1:0.7.0}/eddy.dom.js"></script>
 ]]></content>
 <tabTrigger>cdn-eddy</tabTrigger>
+<description>Eddy</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

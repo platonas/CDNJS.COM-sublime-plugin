@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flex-layout-attribute/${1:1.0.3}/css/flex-layout-attribute.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-flex-layout-attribute</tabTrigger>
+<description>Flex-layout-attribute</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

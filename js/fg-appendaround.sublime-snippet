@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fg-appendaround/${1:1.0.0}/appendAround.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fg-appendaround</tabTrigger>
+<description>Fg-appendaround</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

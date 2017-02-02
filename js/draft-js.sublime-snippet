@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/draft-js/${1:0.10.0}/Draft.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-draft-js</tabTrigger>
+<description>Draft-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

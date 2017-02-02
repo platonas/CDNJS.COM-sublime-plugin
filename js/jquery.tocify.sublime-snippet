@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tocify/${1:1.9.0}/javascripts/jquery.tocify.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.tocify</tabTrigger>
+<description>Jquery.tocify</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

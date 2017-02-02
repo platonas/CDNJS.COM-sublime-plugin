@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.modelbinder/${1:1.1.0}/Backbone.ModelBinder.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backbone.modelbinder</tabTrigger>
+<description>Backbone.modelbinder</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

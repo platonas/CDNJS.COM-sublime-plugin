@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/nviewjs/${1:1.0.3}/nview.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-nviewjs</tabTrigger>
+<description>Nviewjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

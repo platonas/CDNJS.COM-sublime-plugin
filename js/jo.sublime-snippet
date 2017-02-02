@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jo/${1:0.4.1}/jo.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jo</tabTrigger>
+<description>Jo</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

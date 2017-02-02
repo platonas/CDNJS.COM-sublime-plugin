@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pablo/${1:0.4.0}/pablo.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pablo</tabTrigger>
+<description>Pablo</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

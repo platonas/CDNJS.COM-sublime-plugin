@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/${1:2.3.5}/flatpickr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-flatpickr</tabTrigger>
+<description>Flatpickr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

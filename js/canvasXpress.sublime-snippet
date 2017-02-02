@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/canvasXpress/${1:13.8}/canvasXpress.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-canvasXpress</tabTrigger>
+<description>Canvasxpress</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

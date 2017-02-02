@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/egjs/${1:1.4.1}/eg.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-egjs</tabTrigger>
+<description>Egjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

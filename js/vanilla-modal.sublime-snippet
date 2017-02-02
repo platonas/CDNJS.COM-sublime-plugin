@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-modal/${1:1.6.4}/index.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vanilla-modal</tabTrigger>
+<description>Vanilla-modal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

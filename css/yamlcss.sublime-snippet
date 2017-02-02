@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/yamlcss/${1:4.1.2}/core/base.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-yamlcss</tabTrigger>
+<description>Yamlcss</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

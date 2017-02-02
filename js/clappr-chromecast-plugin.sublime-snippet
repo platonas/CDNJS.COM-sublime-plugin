@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/clappr-chromecast-plugin/${1:0.0.5}/clappr-chromecast-plugin.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-clappr-chromecast-plugin</tabTrigger>
+<description>Clappr-chromecast-plugin</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

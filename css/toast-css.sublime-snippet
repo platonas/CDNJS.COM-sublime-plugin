@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toast-css/${1:1.1.0}/grid.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-toast-css</tabTrigger>
+<description>Toast-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

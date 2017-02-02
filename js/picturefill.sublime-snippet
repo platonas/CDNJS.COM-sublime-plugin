@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/${1:3.0.2}/picturefill.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-picturefill</tabTrigger>
+<description>Picturefill</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

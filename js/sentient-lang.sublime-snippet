@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/sentient-lang/${1:0.0.0-alpha.42}/sentient.js"></script>
 ]]></content>
 <tabTrigger>cdn-sentient-lang</tabTrigger>
+<description>Sentient-lang</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

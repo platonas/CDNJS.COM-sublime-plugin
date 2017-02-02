@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/shoestring/${1:1.0.5}/shoestring.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-shoestring</tabTrigger>
+<description>Shoestring</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

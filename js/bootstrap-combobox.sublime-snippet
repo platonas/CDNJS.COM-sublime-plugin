@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-combobox/${1:1.1.7}/js/bootstrap-combobox.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-combobox</tabTrigger>
+<description>Bootstrap-combobox</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

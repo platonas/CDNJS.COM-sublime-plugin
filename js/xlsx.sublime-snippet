@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/${1:0.8.1}/xlsx.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-xlsx</tabTrigger>
+<description>Xlsx</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

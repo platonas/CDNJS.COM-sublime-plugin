@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-formly-templates-bootstrap/${1:6.4.0}/angular-formly-templates-bootstrap.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-formly-templates-bootstrap</tabTrigger>
+<description>Angular-formly-templates-bootstrap</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

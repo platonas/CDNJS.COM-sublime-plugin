@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/PikaChoose/${1:4.5.0}/jquery.pikachoose.js"></script>
 ]]></content>
 <tabTrigger>cdn-PikaChoose</tabTrigger>
+<description>Pikachoose</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

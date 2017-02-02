@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/${1:0.4.6}/dialog-polyfill.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dialog-polyfill</tabTrigger>
+<description>Dialog-polyfill</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

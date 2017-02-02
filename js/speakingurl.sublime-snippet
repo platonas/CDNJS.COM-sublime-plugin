@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/speakingurl/${1:11.0.0}/speakingurl.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-speakingurl</tabTrigger>
+<description>Speakingurl</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

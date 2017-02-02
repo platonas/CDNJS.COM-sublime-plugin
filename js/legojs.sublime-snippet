@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/legojs/${1:0.0.1}/lego.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-legojs</tabTrigger>
+<description>Legojs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

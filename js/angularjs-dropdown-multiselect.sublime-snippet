@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-dropdown-multiselect/${1:1.5.2}/angularjs-dropdown-multiselect.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angularjs-dropdown-multiselect</tabTrigger>
+<description>Angularjs-dropdown-multiselect</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

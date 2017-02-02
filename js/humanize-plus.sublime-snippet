@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/humanize-plus/${1:1.8.2}/humanize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-humanize-plus</tabTrigger>
+<description>Humanize-plus</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

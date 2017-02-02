@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/${1:2.21.0}/d3-legend.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-d3-legend</tabTrigger>
+<description>D3-legend</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

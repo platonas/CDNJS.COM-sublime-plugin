@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-websocket/${1:2.0.1}/angular-websocket.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-websocket</tabTrigger>
+<description>Angular-websocket</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/reflux/${1:6.0.0}/reflux.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-reflux</tabTrigger>
+<description>Reflux</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

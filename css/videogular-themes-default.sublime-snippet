@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/videogular-themes-default/${1:1.4.4}/videogular.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-videogular-themes-default</tabTrigger>
+<description>Videogular-themes-default</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

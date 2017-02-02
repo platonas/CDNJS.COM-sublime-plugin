@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/${1:6.22.1}/babel.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-babel-standalone</tabTrigger>
+<description>Babel-standalone</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore-contrib/${1:0.3.0}/underscore-contrib.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-underscore-contrib</tabTrigger>
+<description>Underscore-contrib</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

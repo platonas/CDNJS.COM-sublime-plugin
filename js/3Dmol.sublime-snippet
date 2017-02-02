@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/${1:1.0.6}/3Dmol-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-3Dmol</tabTrigger>
+<description>3dmol</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

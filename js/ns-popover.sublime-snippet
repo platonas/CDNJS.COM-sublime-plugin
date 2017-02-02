@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ns-popover/${1:0.6.8}/nsPopover.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ns-popover</tabTrigger>
+<description>Ns-popover</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

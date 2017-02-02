@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/${1:1.1.7}/jquery.linkify.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jQuery-linkify</tabTrigger>
+<description>Jquery-linkify</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

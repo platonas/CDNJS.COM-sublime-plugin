@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/terraformer/${1:1.0.7}/terraformer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-terraformer</tabTrigger>
+<description>Terraformer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

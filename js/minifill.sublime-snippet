@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/minifill/${1:0.0.4}/minifill.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-minifill</tabTrigger>
+<description>Minifill</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

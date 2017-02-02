@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollup/${1:2.4.1}/jquery.scrollUp.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-scrollup</tabTrigger>
+<description>Scrollup</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

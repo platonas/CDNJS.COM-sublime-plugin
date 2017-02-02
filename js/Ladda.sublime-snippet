@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Ladda/${1:1.0.0}/ladda.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Ladda</tabTrigger>
+<description>Ladda</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

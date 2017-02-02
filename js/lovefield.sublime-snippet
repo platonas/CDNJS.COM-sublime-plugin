@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/lovefield/${1:2.1.11}/lovefield.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-lovefield</tabTrigger>
+<description>Lovefield</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

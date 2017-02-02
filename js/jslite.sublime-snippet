@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jslite/${1:1.1.12}/JSLite.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jslite</tabTrigger>
+<description>Jslite</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/${1:2.9.2}/jquery.fullPage.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-fullPage.js</tabTrigger>
+<description>Fullpage.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

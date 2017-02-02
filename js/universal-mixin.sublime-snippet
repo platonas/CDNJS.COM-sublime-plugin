@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/universal-mixin/${1:2.0.0}/universal-mixin.js"></script>
 ]]></content>
 <tabTrigger>cdn-universal-mixin</tabTrigger>
+<description>Universal-mixin</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

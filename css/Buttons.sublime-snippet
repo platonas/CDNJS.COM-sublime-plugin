@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Buttons/${1:2.0.0}/css/buttons.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-Buttons</tabTrigger>
+<description>Buttons</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/shell.js/${1:1.0.5}/js/shell.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-shell.js</tabTrigger>
+<description>Shell.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

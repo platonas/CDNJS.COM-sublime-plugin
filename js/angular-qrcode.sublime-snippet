@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-qrcode/${1:6.2.1}/angular-qrcode.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-qrcode</tabTrigger>
+<description>Angular-qrcode</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

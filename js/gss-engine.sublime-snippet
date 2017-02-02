@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gss-engine/${1:2.0.0}/gss.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gss-engine</tabTrigger>
+<description>Gss-engine</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/buzz/${1:1.2.0}/buzz.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-buzz</tabTrigger>
+<description>Buzz</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

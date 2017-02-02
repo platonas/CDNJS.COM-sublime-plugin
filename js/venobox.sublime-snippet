@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/venobox/${1:1.6.0}/venobox.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-venobox</tabTrigger>
+<description>Venobox</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

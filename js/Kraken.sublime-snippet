@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Kraken/${1:7.5.2}/js/main.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Kraken</tabTrigger>
+<description>Kraken</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

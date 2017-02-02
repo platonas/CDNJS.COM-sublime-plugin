@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/require-cs/${1:0.5.0}/cs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-require-cs</tabTrigger>
+<description>Require-cs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

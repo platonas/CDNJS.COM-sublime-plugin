@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/canvas-nest.js/${1:1.0.1}/canvas-nest.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-canvas-nest.js</tabTrigger>
+<description>Canvas-nest.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

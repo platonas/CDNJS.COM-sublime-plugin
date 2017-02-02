@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/autonumeric/${1:1.9.46}/autoNumeric.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-autonumeric</tabTrigger>
+<description>Autonumeric</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

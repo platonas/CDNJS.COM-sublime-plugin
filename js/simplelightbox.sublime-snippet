@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/${1:1.10.5}/simple-lightbox.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-simplelightbox</tabTrigger>
+<description>Simplelightbox</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

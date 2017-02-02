@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridforms/${1:1.0.10}/gridforms.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-gridforms</tabTrigger>
+<description>Gridforms</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

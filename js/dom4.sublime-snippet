@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dom4/${1:1.8.3}/dom4.js"></script>
 ]]></content>
 <tabTrigger>cdn-dom4</tabTrigger>
+<description>Dom4</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

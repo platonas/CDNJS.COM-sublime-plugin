@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/horsey/${1:4.2.2}/horsey.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-horsey</tabTrigger>
+<description>Horsey</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

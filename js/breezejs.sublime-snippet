@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/breezejs/${1:1.5.7}/breeze.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-breezejs</tabTrigger>
+<description>Breezejs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

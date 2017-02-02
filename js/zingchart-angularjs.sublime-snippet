@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/zingchart-angularjs/${1:1.2.0}/zingchart-angularjs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-zingchart-angularjs</tabTrigger>
+<description>Zingchart-angularjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

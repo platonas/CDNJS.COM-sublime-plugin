@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-debounce/${1:0.1.7}/angular-debounce.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-debounce</tabTrigger>
+<description>Angular-debounce</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation-emails/${1:2.2.1}/foundation-emails.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-foundation-emails</tabTrigger>
+<description>Foundation-emails</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

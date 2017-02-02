@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dna.js/${1:1.2.2}/dna.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dna.js</tabTrigger>
+<description>Dna.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

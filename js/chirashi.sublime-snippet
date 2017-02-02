@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/chirashi/${1:6.0.3}/chirashi.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-chirashi</tabTrigger>
+<description>Chirashi</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

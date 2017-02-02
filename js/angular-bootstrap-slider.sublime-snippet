@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-bootstrap-slider/${1:0.1.28}/slider.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-bootstrap-slider</tabTrigger>
+<description>Angular-bootstrap-slider</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

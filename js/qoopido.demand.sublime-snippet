@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/qoopido.demand/${1:4.1.5}/demand.js"></script>
 ]]></content>
 <tabTrigger>cdn-qoopido.demand</tabTrigger>
+<description>Qoopido.demand</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

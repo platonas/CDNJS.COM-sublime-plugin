@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/opal-parser/${1:0.3.43}/opal-parser.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-opal-parser</tabTrigger>
+<description>Opal-parser</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

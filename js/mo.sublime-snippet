@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mo/${1:1.7.3}/lang.js"></script>
 ]]></content>
 <tabTrigger>cdn-mo</tabTrigger>
+<description>Mo</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

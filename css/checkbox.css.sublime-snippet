@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/checkbox.css/${1:1.1.3}/css/checkbox.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-checkbox.css</tabTrigger>
+<description>Checkbox.css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

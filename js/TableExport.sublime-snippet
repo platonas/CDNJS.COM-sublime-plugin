@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/TableExport/${1:3.3.9}/js/tableexport.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-TableExport</tabTrigger>
+<description>Tableexport</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

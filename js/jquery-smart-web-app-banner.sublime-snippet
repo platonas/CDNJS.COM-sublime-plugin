@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-smart-web-app-banner/${1:1.4}/jquery.smartwebbanner.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-smart-web-app-banner</tabTrigger>
+<description>Jquery-smart-web-app-banner</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-elastic/${1:2.5.1}/elastic.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-elastic</tabTrigger>
+<description>Angular-elastic</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

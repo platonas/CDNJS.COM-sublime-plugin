@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/rem/${1:1.3.4}/js/rem.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-rem</tabTrigger>
+<description>Rem</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

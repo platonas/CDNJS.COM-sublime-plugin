@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/${1:0.5.3}/chartjs-plugin-annotation.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-chartjs-plugin-annotation</tabTrigger>
+<description>Chartjs-plugin-annotation</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

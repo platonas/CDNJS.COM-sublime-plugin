@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/taffydb/${1:2.7.3}/taffy-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-taffydb</tabTrigger>
+<description>Taffydb</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

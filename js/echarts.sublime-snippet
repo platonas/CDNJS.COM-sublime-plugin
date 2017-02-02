@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/${1:3.4.0}/echarts.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-echarts</tabTrigger>
+<description>Echarts</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/awesome-bootstrap-checkbox/${1:0.3.7}/awesome-bootstrap-checkbox.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-awesome-bootstrap-checkbox</tabTrigger>
+<description>Awesome-bootstrap-checkbox</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

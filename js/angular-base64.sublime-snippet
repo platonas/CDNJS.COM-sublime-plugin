@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-base64/${1:2.0.5}/angular-base64.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-base64</tabTrigger>
+<description>Angular-base64</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

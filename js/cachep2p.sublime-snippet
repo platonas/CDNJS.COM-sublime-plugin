@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cachep2p/${1:0.1.5}/cachep2p.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cachep2p</tabTrigger>
+<description>Cachep2p</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

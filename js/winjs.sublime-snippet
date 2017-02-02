@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/winjs/${1:4.4.0}/js/ui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-winjs</tabTrigger>
+<description>Winjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

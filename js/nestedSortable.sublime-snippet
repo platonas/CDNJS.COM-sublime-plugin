@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/nestedSortable/${1:2.0.0}/jquery.mjs.nestedSortable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-nestedSortable</tabTrigger>
+<description>Nestedsortable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

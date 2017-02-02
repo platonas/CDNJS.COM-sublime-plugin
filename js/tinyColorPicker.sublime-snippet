@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tinyColorPicker/${1:1.1.1}/jqColorPicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tinyColorPicker</tabTrigger>
+<description>Tinycolorpicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

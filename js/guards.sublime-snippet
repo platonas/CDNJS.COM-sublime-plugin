@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/guards/${1:1.5.1}/guards.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-guards</tabTrigger>
+<description>Guards</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

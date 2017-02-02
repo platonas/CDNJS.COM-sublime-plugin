@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/${1:1.4.2}/velocity.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-velocity</tabTrigger>
+<description>Velocity</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

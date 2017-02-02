@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-resizable/${1:1.2.0}/angular-resizable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-resizable</tabTrigger>
+<description>Angular-resizable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

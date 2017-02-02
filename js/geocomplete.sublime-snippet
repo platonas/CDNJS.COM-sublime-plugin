@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/geocomplete/${1:1.7.0}/jquery.geocomplete.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-geocomplete</tabTrigger>
+<description>Geocomplete</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

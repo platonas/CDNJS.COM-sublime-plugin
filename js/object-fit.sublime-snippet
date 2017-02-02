@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/object-fit/${1:0.4.3}/polyfill.object-fit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-object-fit</tabTrigger>
+<description>Object-fit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

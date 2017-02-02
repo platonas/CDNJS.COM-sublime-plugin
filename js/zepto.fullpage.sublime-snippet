@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/zepto.fullpage/${1:0.5.0}/zepto.fullpage.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-zepto.fullpage</tabTrigger>
+<description>Zepto.fullpage</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/blazy/${1:1.8.2}/blazy.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-blazy</tabTrigger>
+<description>Blazy</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

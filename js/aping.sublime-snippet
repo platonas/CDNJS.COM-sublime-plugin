@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aping/${1:1.4.1}/aping.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-aping</tabTrigger>
+<description>Aping</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

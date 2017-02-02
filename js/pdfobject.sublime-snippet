@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/${1:2.0.201604172}/pdfobject.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pdfobject</tabTrigger>
+<description>Pdfobject</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

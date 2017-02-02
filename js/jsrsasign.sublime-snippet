@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/${1:7.1.0}/jsrsasign.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jsrsasign</tabTrigger>
+<description>Jsrsasign</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

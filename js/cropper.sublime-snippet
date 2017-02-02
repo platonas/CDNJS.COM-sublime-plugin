@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cropper/${1:2.3.4}/cropper.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cropper</tabTrigger>
+<description>Cropper</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

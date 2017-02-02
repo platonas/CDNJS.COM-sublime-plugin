@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gojs/${1:1.6.23}/go.js"></script>
 ]]></content>
 <tabTrigger>cdn-gojs</tabTrigger>
+<description>Gojs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/embed-js/${1:4.1.12}/embed.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-embed-js</tabTrigger>
+<description>Embed-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

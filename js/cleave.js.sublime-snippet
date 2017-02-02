@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cleave.js/${1:0.7.15}/cleave.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cleave.js</tabTrigger>
+<description>Cleave.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

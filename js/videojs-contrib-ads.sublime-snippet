@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/${1:4.2.1}/videojs.ads.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-videojs-contrib-ads</tabTrigger>
+<description>Videojs-contrib-ads</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

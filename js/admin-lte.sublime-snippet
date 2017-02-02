@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/admin-lte/${1:2.3.11}/js/app.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-admin-lte</tabTrigger>
+<description>Admin-lte</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

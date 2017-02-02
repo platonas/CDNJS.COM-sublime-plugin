@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ngprogress/${1:1.1.3}/ngprogress.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ngprogress</tabTrigger>
+<description>Ngprogress</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.eventbinder/${1:0.1.0}/backbone.eventbinder.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backbone.eventbinder</tabTrigger>
+<description>Backbone.eventbinder</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

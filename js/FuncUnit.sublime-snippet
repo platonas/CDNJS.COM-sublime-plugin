@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/FuncUnit/${1:2.0.4}/funcunit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-FuncUnit</tabTrigger>
+<description>Funcunit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

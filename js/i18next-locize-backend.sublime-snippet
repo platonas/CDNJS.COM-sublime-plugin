@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/i18next-locize-backend/${1:1.0.0}/i18nextLocizeBackend.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-i18next-locize-backend</tabTrigger>
+<description>I18next-locize-backend</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

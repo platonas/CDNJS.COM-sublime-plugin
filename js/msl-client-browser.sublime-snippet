@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/msl-client-browser/${1:1.0.6}/mockapi-browser.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-msl-client-browser</tabTrigger>
+<description>Msl-client-browser</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

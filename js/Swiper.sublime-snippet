@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/${1:3.4.1}/js/swiper.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Swiper</tabTrigger>
+<description>Swiper</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

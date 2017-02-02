@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-serialize-object/${1:2.5.0}/jquery.serialize-object.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-serialize-object</tabTrigger>
+<description>Jquery-serialize-object</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

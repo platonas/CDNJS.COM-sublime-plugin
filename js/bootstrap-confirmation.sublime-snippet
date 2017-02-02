@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-confirmation/${1:1.0.5}/bootstrap-confirmation.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-confirmation</tabTrigger>
+<description>Bootstrap-confirmation</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

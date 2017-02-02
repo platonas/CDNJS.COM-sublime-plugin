@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ngStorage/${1:0.3.11}/ngStorage.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ngStorage</tabTrigger>
+<description>Ngstorage</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/remoteStorage/${1:0.14.0}/remotestorage.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-remoteStorage</tabTrigger>
+<description>Remotestorage</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

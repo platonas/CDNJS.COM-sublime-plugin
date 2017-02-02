@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/${1:2.6.0}/gist-embed.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gist-embed</tabTrigger>
+<description>Gist-embed</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

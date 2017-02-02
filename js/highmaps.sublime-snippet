@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/highmaps/${1:5.0.7}/highmaps.js"></script>
 ]]></content>
 <tabTrigger>cdn-highmaps</tabTrigger>
+<description>Highmaps</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

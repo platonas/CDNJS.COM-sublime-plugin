@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angularFire/${1:2.3.0}/angularfire.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angularFire</tabTrigger>
+<description>Angularfire</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

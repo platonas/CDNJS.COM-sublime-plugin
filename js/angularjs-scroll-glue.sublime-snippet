@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-scroll-glue/${1:2.1.0}/scrollglue.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angularjs-scroll-glue</tabTrigger>
+<description>Angularjs-scroll-glue</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

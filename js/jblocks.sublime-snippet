@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jblocks/${1:1.0.6}/index.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jblocks</tabTrigger>
+<description>Jblocks</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

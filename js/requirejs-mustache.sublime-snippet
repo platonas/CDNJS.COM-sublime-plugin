@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-mustache/${1:0.0.2}/stache.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-requirejs-mustache</tabTrigger>
+<description>Requirejs-mustache</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

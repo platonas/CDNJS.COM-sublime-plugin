@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/${1:0.8.0}/jquery.modal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-modal</tabTrigger>
+<description>Jquery-modal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

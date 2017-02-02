@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/signet/${1:0.4.8}/signet.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-signet</tabTrigger>
+<description>Signet</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

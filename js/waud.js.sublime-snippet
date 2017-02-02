@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/waud.js/${1:0.9.5}/waud.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-waud.js</tabTrigger>
+<description>Waud.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

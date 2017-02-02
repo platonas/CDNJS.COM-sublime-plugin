@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/golden-layout/${1:1.5.7}/goldenlayout.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-golden-layout</tabTrigger>
+<description>Golden-layout</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

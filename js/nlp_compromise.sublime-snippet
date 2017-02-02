@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/nlp_compromise/${1:6.5.3}/nlp_compromise.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-nlp_compromise</tabTrigger>
+<description>Nlp_compromise</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

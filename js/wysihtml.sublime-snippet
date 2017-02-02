@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/wysihtml/${1:0.5.5}/wysihtml.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-wysihtml</tabTrigger>
+<description>Wysihtml</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

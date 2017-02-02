@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/xcharts/${1:0.3.0}/xcharts.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-xcharts</tabTrigger>
+<description>Xcharts</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

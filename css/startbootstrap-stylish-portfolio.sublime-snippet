@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-stylish-portfolio/${1:3.3.7}/css/stylish-portfolio.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-startbootstrap-stylish-portfolio</tabTrigger>
+<description>Startbootstrap-stylish-portfolio</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

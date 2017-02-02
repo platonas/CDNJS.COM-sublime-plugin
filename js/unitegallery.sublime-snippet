@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/unitegallery/${1:1.7.40}/js/unitegallery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-unitegallery</tabTrigger>
+<description>Unitegallery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

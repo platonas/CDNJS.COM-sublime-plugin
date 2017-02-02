@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.businessHours/${1:1.0.1}/jquery.businessHours.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.businessHours</tabTrigger>
+<description>Jquery.businesshours</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

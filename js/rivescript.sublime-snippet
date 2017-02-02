@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/rivescript/${1:1.17.2}/rivescript.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-rivescript</tabTrigger>
+<description>Rivescript</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

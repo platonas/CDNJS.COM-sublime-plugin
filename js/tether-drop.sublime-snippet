@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tether-drop/${1:1.4.2}/js/drop.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tether-drop</tabTrigger>
+<description>Tether-drop</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

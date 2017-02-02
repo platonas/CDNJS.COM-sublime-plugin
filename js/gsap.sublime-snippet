@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/${1:1.19.1}/TweenMax.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gsap</tabTrigger>
+<description>Gsap</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

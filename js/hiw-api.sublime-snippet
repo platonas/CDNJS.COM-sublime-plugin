@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/hiw-api/${1:5.2.0}/hiw-api.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-hiw-api</tabTrigger>
+<description>Hiw-api</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

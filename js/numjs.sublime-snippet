@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/numjs/${1:0.12.4}/numjs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-numjs</tabTrigger>
+<description>Numjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

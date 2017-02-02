@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jinplace/${1:1.2.1}/jinplace.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jinplace</tabTrigger>
+<description>Jinplace</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

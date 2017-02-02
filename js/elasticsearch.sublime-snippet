@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/elasticsearch/${1:12.1.3}/elasticsearch.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-elasticsearch</tabTrigger>
+<description>Elasticsearch</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aurora.js-mp3/${1:0.1.0}/mp3.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-aurora.js-mp3</tabTrigger>
+<description>Aurora.js-mp3</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

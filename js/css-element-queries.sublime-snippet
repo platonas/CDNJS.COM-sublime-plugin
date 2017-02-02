@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/${1:0.4.0}/ElementQueries.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-css-element-queries</tabTrigger>
+<description>Css-element-queries</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

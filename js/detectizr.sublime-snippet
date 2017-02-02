@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/detectizr/${1:2.2.0}/detectizr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-detectizr</tabTrigger>
+<description>Detectizr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

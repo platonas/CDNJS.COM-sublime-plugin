@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/audiosynth/${1:1.0.0}/audiosynth.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-audiosynth</tabTrigger>
+<description>Audiosynth</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

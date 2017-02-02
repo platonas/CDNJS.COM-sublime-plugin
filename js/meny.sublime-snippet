@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/meny/${1:1.4.0}/meny.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-meny</tabTrigger>
+<description>Meny</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

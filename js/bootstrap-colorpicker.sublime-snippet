@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-colorpicker/${1:2.4.0}/js/bootstrap-colorpicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-colorpicker</tabTrigger>
+<description>Bootstrap-colorpicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

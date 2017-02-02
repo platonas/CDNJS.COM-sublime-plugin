@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-ie8-build/${1:1.4.7}/angular.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angularjs-ie8-build</tabTrigger>
+<description>Angularjs-ie8-build</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

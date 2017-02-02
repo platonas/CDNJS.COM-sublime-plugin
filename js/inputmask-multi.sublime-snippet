@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask-multi/${1:1.2.0}/js/jquery.inputmask-multi.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-inputmask-multi</tabTrigger>
+<description>Inputmask-multi</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

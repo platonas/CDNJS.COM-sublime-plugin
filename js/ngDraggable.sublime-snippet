@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ngDraggable/${1:0.1.11}/ngDraggable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ngDraggable</tabTrigger>
+<description>Ngdraggable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

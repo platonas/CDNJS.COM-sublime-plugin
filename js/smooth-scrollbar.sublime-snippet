@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/${1:7.2.9}/smooth-scrollbar.js"></script>
 ]]></content>
 <tabTrigger>cdn-smooth-scrollbar</tabTrigger>
+<description>Smooth-scrollbar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

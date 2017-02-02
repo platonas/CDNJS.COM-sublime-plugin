@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-router-bootstrap/${1:0.23.1}/ReactRouterBootstrap.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-router-bootstrap</tabTrigger>
+<description>React-router-bootstrap</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

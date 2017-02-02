@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/avalanche-css/${1:1.2.0}/avalanche.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-avalanche-css</tabTrigger>
+<description>Avalanche-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

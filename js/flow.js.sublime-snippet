@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/flow.js/${1:2.11.2}/flow.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-flow.js</tabTrigger>
+<description>Flow.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

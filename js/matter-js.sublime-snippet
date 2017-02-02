@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/${1:0.10.0}/matter.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-matter-js</tabTrigger>
+<description>Matter-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

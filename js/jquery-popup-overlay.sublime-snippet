@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-popup-overlay/${1:1.7.9}/jquery.popupoverlay.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-popup-overlay</tabTrigger>
+<description>Jquery-popup-overlay</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

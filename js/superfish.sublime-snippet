@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/superfish/${1:1.7.9}/js/superfish.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-superfish</tabTrigger>
+<description>Superfish</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

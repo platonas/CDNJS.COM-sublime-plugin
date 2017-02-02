@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/appbase-js/${1:0.10.8}/appbase.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-appbase-js</tabTrigger>
+<description>Appbase-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

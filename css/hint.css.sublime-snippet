@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hint.css/${1:2.4.1}/hint.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-hint.css</tabTrigger>
+<description>Hint.css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

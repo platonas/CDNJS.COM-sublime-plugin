@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/${1:2.7.0}/MathJax.js"></script>
 ]]></content>
 <tabTrigger>cdn-mathjax</tabTrigger>
+<description>Mathjax</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

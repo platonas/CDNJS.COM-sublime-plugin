@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tween.js/${1:16.6.0}/Tween.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tween.js</tabTrigger>
+<description>Tween.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

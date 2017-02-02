@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/conditionizr.js/${1:4.1.0}/conditionizr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-conditionizr.js</tabTrigger>
+<description>Conditionizr.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

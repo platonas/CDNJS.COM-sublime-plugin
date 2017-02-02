@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-polylinedecorator/${1:1.1.0}/leaflet.polylineDecorator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet-polylinedecorator</tabTrigger>
+<description>Leaflet-polylinedecorator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

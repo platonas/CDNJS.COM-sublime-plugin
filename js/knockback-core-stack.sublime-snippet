@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/knockback-core-stack/${1:0.17.2}/knockback-core-stack.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-knockback-core-stack</tabTrigger>
+<description>Knockback-core-stack</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

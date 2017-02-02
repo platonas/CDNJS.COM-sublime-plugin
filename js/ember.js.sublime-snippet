@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ember.js/${1:2.11.0}/ember.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ember.js</tabTrigger>
+<description>Ember.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

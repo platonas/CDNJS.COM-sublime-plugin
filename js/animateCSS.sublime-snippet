@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/animateCSS/${1:1.2.1}/jquery.animatecss.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-animateCSS</tabTrigger>
+<description>Animatecss</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

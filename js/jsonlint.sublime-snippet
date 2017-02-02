@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jsonlint/${1:1.6.0}/jsonlint.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jsonlint</tabTrigger>
+<description>Jsonlint</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

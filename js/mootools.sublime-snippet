@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mootools/${1:1.6.0}/mootools-core.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-mootools</tabTrigger>
+<description>Mootools</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

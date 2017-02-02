@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fuzzyset.js/${1:0.0.1}/fuzzyset.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fuzzyset.js</tabTrigger>
+<description>Fuzzyset.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

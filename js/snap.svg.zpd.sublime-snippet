@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg.zpd/${1:0.0.11}/snap.svg.zpd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-snap.svg.zpd</tabTrigger>
+<description>Snap.svg.zpd</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

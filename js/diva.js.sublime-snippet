@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/diva.js/${1:4.1.0}/js/diva.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-diva.js</tabTrigger>
+<description>Diva.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

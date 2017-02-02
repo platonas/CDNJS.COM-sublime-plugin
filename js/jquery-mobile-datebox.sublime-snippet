@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile-datebox/${1:1.1.1}/jqm-datebox.core.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-mobile-datebox</tabTrigger>
+<description>Jquery-mobile-datebox</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

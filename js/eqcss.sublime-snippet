@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/eqcss/${1:1.5.0}/EQCSS.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-eqcss</tabTrigger>
+<description>Eqcss</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

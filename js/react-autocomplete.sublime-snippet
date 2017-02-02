@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-autocomplete/${1:1.4.0}/react-autocomplete.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-autocomplete</tabTrigger>
+<description>React-autocomplete</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

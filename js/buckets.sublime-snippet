@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/buckets/${1:1.90.0}/buckets.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-buckets</tabTrigger>
+<description>Buckets</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

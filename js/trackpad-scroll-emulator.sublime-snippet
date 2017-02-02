@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/trackpad-scroll-emulator/${1:1.0.8}/jquery.trackpad-scroll-emulator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-trackpad-scroll-emulator</tabTrigger>
+<description>Trackpad-scroll-emulator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

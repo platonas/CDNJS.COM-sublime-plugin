@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-tags-input/${1:3.1.1}/ng-tags-input.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-tags-input</tabTrigger>
+<description>Ng-tags-input</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

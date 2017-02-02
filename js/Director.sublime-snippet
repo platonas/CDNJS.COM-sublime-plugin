@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Director/${1:1.2.8}/director.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Director</tabTrigger>
+<description>Director</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

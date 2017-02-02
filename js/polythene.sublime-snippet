@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/polythene/${1:0.2.33}/polythene-standalone.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-polythene</tabTrigger>
+<description>Polythene</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bsjs/${1:0.3.0}/bsjs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bsjs</tabTrigger>
+<description>Bsjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

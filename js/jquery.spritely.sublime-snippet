@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.spritely/${1:0.6.8}/jquery.spritely.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.spritely</tabTrigger>
+<description>Jquery.spritely</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

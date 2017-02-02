@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/layzr.js/${1:2.2.2}/layzr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-layzr.js</tabTrigger>
+<description>Layzr.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

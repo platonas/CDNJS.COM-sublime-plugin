@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/datedropper/${1:2.0}/datedropper.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-datedropper</tabTrigger>
+<description>Datedropper</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

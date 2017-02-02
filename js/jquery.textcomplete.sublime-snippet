@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.textcomplete/${1:1.8.0}/jquery.textcomplete.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.textcomplete</tabTrigger>
+<description>Jquery.textcomplete</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/embedly-jquery/${1:3.1.1}/jquery.embedly.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-embedly-jquery</tabTrigger>
+<description>Embedly-jquery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

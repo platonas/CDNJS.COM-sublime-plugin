@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/oojs/${1:1.1.10}/oojs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-oojs</tabTrigger>
+<description>Oojs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

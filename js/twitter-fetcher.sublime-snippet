@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-fetcher/${1:16.0.3}/js/twitterFetcher_min.js"></script>
 ]]></content>
 <tabTrigger>cdn-twitter-fetcher</tabTrigger>
+<description>Twitter-fetcher</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

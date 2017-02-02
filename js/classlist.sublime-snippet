@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/${1:1.1.20150312}/classList.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-classlist</tabTrigger>
+<description>Classlist</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

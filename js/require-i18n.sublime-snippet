@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/require-i18n/${1:2.0.4}/i18n.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-require-i18n</tabTrigger>
+<description>Require-i18n</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/s3colors/${1:1.0}/s3-colors.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-s3colors</tabTrigger>
+<description>S3colors</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

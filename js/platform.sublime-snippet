@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/platform/${1:1.3.3}/platform.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-platform</tabTrigger>
+<description>Platform</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

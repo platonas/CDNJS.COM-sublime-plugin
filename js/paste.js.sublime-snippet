@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/paste.js/${1:0.0.21}/paste.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-paste.js</tabTrigger>
+<description>Paste.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

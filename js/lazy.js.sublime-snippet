@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/lazy.js/${1:0.4.3}/lazy.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-lazy.js</tabTrigger>
+<description>Lazy.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jed/${1:1.1.1}/jed.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jed</tabTrigger>
+<description>Jed</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

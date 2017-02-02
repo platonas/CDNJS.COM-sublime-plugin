@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fast-json-patch/${1:1.1.4}/json-patch-duplex.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fast-json-patch</tabTrigger>
+<description>Fast-json-patch</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

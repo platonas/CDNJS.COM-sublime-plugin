@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/crosstab/${1:0.2.12}/crosstab.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-crosstab</tabTrigger>
+<description>Crosstab</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

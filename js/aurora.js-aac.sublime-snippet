@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aurora.js-aac/${1:0.1.0}/aac.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-aurora.js-aac</tabTrigger>
+<description>Aurora.js-aac</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/${1:2.0.1}/color-thief.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-color-thief</tabTrigger>
+<description>Color-thief</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sortable/${1:0.9.13}/jquery-sortable-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-sortable</tabTrigger>
+<description>Jquery-sortable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

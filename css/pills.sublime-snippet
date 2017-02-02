@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pills/${1:1.0.1}/pills.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-pills</tabTrigger>
+<description>Pills</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/${1:2.0.8}/postscribe.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-postscribe</tabTrigger>
+<description>Postscribe</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

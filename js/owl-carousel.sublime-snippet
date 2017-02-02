@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/${1:1.3.3}/owl.carousel.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-owl-carousel</tabTrigger>
+<description>Owl-carousel</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

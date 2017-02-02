@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-file-upload/${1:9.14.2}/js/jquery.fileupload.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-blueimp-file-upload</tabTrigger>
+<description>Blueimp-file-upload</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

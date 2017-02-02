@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.dirtyforms.helpers.tinymce/${1:2.0.0}/jquery.dirtyforms.helpers.tinymce.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.dirtyforms.helpers.tinymce</tabTrigger>
+<description>Jquery.dirtyforms.helpers.tinymce</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

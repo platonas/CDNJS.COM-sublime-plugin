@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-magnify/${1:0.3.0}/js/bootstrap-magnify.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-magnify</tabTrigger>
+<description>Bootstrap-magnify</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/shopify-cartjs/${1:0.4.1}/cart.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-shopify-cartjs</tabTrigger>
+<description>Shopify-cartjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

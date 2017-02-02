@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/doofinder/${1:4.1.26}/doofinder.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-doofinder</tabTrigger>
+<description>Doofinder</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

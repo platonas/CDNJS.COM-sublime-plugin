@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/squire-rte/${1:1.8.7}/squire.js"></script>
 ]]></content>
 <tabTrigger>cdn-squire-rte</tabTrigger>
+<description>Squire-rte</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-filestyle/${1:1.2.1}/bootstrap-filestyle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-filestyle</tabTrigger>
+<description>Bootstrap-filestyle</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/${1:5.1.1}/bootstrap-social.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-bootstrap-social</tabTrigger>
+<description>Bootstrap-social</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

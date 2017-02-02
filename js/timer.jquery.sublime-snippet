@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/timer.jquery/${1:0.6.4}/timer.jquery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-timer.jquery</tabTrigger>
+<description>Timer.jquery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

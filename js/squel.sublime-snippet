@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/squel/${1:5.6.0}/squel.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-squel</tabTrigger>
+<description>Squel</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

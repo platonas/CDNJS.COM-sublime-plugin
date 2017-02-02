@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/randomcolor/${1:0.4.4}/randomColor.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-randomcolor</tabTrigger>
+<description>Randomcolor</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

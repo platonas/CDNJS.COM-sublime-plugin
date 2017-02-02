@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/CodeFlask.js/${1:0.2.0}/codeflask.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-CodeFlask.js</tabTrigger>
+<description>Codeflask.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

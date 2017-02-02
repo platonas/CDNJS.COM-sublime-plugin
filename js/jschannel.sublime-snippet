@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jschannel/${1:1.0.0-git-commit1-8c4f7eb}/jschannel.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jschannel</tabTrigger>
+<description>Jschannel</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

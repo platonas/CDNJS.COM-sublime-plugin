@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/rasterizehtml/${1:1.2.4}/rasterizeHTML.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-rasterizehtml</tabTrigger>
+<description>Rasterizehtml</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

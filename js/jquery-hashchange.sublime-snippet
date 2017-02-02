@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-hashchange/${1:1.3}/jquery.ba-hashchange.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-hashchange</tabTrigger>
+<description>Jquery-hashchange</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

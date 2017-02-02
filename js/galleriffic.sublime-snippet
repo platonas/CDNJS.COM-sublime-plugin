@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/galleriffic/${1:2.0.1}/jquery.galleriffic.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-galleriffic</tabTrigger>
+<description>Galleriffic</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

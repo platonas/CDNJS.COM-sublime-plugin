@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-socialshare/${1:2.3.5}/angular-socialshare.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-socialshare</tabTrigger>
+<description>Angular-socialshare</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

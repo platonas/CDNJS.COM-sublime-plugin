@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-motion-ui-pack/${1:0.10.2}/react-motion-ui-pack.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-motion-ui-pack</tabTrigger>
+<description>React-motion-ui-pack</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

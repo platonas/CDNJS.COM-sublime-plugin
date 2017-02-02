@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pannellum/${1:2.3.2}/pannellum.js"></script>
 ]]></content>
 <tabTrigger>cdn-pannellum</tabTrigger>
+<description>Pannellum</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

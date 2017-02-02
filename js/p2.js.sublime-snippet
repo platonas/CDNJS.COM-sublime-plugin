@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/p2.js/${1:0.7.1}/p2.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-p2.js</tabTrigger>
+<description>P2.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

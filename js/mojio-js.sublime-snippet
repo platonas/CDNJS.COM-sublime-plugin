@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mojio-js/${1:3.5.2}/mojio-js.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-mojio-js</tabTrigger>
+<description>Mojio-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

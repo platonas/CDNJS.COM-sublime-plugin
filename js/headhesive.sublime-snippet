@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/headhesive/${1:1.2.4}/headhesive.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-headhesive</tabTrigger>
+<description>Headhesive</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

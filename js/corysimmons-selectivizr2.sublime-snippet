@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/corysimmons-selectivizr2/${1:1.0.9}/selectivizr2.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-corysimmons-selectivizr2</tabTrigger>
+<description>Corysimmons-selectivizr2</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

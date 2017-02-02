@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/${1:1.1.0}/jquery.magnific-popup.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-magnific-popup.js</tabTrigger>
+<description>Magnific-popup.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dustjs-linkedin/${1:2.7.5}/dust-core.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dustjs-linkedin</tabTrigger>
+<description>Dustjs-linkedin</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

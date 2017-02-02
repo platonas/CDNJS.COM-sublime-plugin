@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bignumber.js/${1:4.0.0}/bignumber.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bignumber.js</tabTrigger>
+<description>Bignumber.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

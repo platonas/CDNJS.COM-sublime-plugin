@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-resize/${1:1.1}/jquery.ba-resize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-resize</tabTrigger>
+<description>Jquery-resize</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

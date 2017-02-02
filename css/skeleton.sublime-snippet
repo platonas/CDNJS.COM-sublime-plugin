@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/${1:2.0.4}/skeleton.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-skeleton</tabTrigger>
+<description>Skeleton</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

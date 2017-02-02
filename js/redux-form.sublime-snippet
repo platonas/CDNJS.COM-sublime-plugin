@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/redux-form/${1:6.5.0}/redux-form.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-redux-form</tabTrigger>
+<description>Redux-form</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

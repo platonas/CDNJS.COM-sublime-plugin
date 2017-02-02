@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jsnlog/${1:2.22.1}/jsnlog.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jsnlog</tabTrigger>
+<description>Jsnlog</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

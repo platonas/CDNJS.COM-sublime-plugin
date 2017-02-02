@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/metisMenu/${1:2.6.1}/metisMenu.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-metisMenu</tabTrigger>
+<description>Metismenu</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

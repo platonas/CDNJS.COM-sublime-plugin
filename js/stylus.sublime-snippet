@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/stylus/${1:0.32.1}/stylus.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-stylus</tabTrigger>
+<description>Stylus</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

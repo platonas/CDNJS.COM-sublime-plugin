@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/scroll-scope/${1:0.1.0}/scroll-scope.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-scroll-scope</tabTrigger>
+<description>Scroll-scope</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

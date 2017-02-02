@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/flipclock/${1:0.7.8}/flipclock.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-flipclock</tabTrigger>
+<description>Flipclock</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

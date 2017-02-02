@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/spinejs/${1:1.2.0}/all.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-spinejs</tabTrigger>
+<description>Spinejs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

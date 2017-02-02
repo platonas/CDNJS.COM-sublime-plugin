@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/helium-css/${1:1.1}/helium.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-helium-css</tabTrigger>
+<description>Helium-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

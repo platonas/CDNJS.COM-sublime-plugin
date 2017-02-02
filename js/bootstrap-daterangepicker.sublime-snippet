@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-daterangepicker/${1:2.1.25}/daterangepicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-daterangepicker</tabTrigger>
+<description>Bootstrap-daterangepicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

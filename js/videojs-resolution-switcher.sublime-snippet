@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-resolution-switcher/${1:0.4.2}/videojs-resolution-switcher.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-videojs-resolution-switcher</tabTrigger>
+<description>Videojs-resolution-switcher</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

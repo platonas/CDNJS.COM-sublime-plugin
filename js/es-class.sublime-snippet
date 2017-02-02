@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/es-class/${1:2.0.0}/es-class.js"></script>
 ]]></content>
 <tabTrigger>cdn-es-class</tabTrigger>
+<description>Es-class</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

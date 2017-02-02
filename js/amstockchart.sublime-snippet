@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/amstockchart/${1:3.13.0}/amstock.js"></script>
 ]]></content>
 <tabTrigger>cdn-amstockchart</tabTrigger>
+<description>Amstockchart</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

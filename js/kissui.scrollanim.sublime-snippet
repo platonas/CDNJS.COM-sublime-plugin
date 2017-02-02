@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/kissui.scrollanim/${1:0.3.0}/scrollanim.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-kissui.scrollanim</tabTrigger>
+<description>Kissui.scrollanim</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

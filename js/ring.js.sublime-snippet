@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ring.js/${1:2.1.0}/ring.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ring.js</tabTrigger>
+<description>Ring.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

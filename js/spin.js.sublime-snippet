@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/spin.js/${1:2.3.2}/spin.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-spin.js</tabTrigger>
+<description>Spin.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

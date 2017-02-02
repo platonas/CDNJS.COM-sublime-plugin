@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/engine.io-client/${1:2.0.1}/engine.io.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-engine.io-client</tabTrigger>
+<description>Engine.io-client</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

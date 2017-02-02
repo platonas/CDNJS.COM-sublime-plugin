@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/esri-leaflet/${1:2.0.7}/esri-leaflet.js"></script>
 ]]></content>
 <tabTrigger>cdn-esri-leaflet</tabTrigger>
+<description>Esri-leaflet</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

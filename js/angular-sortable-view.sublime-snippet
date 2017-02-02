@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sortable-view/${1:0.0.15}/angular-sortable-view.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-sortable-view</tabTrigger>
+<description>Angular-sortable-view</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/trix/${1:0.10.1}/trix.js"></script>
 ]]></content>
 <tabTrigger>cdn-trix</tabTrigger>
+<description>Trix</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

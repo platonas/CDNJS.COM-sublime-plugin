@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/${1:0.6.2}/dat.gui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dat-gui</tabTrigger>
+<description>Dat-gui</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

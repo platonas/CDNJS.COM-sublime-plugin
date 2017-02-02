@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/caiuss/${1:1.4.6}/caiuss.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-caiuss</tabTrigger>
+<description>Caiuss</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

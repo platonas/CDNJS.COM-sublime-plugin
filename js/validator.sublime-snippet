@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/validator/${1:6.2.1}/validator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-validator</tabTrigger>
+<description>Validator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

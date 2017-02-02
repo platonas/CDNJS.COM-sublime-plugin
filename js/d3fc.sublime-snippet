@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/d3fc/${1:11.0.0}/d3fc.bundle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-d3fc</tabTrigger>
+<description>D3fc</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

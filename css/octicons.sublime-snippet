@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/${1:4.4.0}/octicons.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-octicons</tabTrigger>
+<description>Octicons</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

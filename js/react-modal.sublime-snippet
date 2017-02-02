@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-modal/${1:1.6.5}/react-modal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-modal</tabTrigger>
+<description>React-modal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

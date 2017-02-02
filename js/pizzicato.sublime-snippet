@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pizzicato/${1:0.5.1}/Pizzicato.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pizzicato</tabTrigger>
+<description>Pizzicato</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

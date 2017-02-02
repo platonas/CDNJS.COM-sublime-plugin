@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/skrollr/${1:0.6.30}/skrollr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-skrollr</tabTrigger>
+<description>Skrollr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/JQuery-Snowfall/${1:1.7.4}/snowfall.jquery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-JQuery-Snowfall</tabTrigger>
+<description>Jquery-snowfall</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

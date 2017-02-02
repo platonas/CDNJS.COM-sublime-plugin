@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/packery/${1:2.1.1}/packery.pkgd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-packery</tabTrigger>
+<description>Packery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

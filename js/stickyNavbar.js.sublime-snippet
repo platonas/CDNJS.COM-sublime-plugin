@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/stickyNavbar.js/${1:1.3.4}/jquery.stickyNavbar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-stickyNavbar.js</tabTrigger>
+<description>Stickynavbar.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

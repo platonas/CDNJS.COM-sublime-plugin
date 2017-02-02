@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/typescript/${1:2.1.5}/typescript.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-typescript</tabTrigger>
+<description>Typescript</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

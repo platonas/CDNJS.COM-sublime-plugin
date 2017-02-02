@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash-compat/${1:3.10.2}/lodash.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-lodash-compat</tabTrigger>
+<description>Lodash-compat</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

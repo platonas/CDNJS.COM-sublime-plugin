@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap3-contact-form/${1:1.4.1}/js/contact-form.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap3-contact-form</tabTrigger>
+<description>Bootstrap3-contact-form</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

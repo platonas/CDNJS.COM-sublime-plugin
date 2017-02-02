@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/${1:1.1}/tufte.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-tufte-css</tabTrigger>
+<description>Tufte-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

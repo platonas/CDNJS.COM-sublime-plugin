@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-timer/${1:1.3.4}/angular-timer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-timer</tabTrigger>
+<description>Angular-timer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

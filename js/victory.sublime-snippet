@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/victory/${1:0.15.0}/victory.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-victory</tabTrigger>
+<description>Victory</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

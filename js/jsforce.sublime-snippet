@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jsforce/${1:1.7.1}/jsforce.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jsforce</tabTrigger>
+<description>Jsforce</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

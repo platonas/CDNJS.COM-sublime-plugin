@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/image-map-resizer/${1:1.0.3}/js/imageMapResizer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-image-map-resizer</tabTrigger>
+<description>Image-map-resizer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/reactive-coffee/${1:1.3.3}/reactive-coffee.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-reactive-coffee</tabTrigger>
+<description>Reactive-coffee</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/protonet-jquery.inview/${1:1.1.2}/jquery.inview.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-protonet-jquery.inview</tabTrigger>
+<description>Protonet-jquery.inview</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

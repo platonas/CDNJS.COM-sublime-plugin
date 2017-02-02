@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fsvs/${1:1.2.2}/js/bundle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fsvs</tabTrigger>
+<description>Fsvs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

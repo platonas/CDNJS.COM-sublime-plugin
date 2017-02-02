@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ixjs/${1:1.0.6}/ix.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ixjs</tabTrigger>
+<description>Ixjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

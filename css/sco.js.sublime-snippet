@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sco.js/${1:1.1.0}/css/scojs.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-sco.js</tabTrigger>
+<description>Sco.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

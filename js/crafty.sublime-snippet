@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/crafty/${1:0.7.1}/crafty-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-crafty</tabTrigger>
+<description>Crafty</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

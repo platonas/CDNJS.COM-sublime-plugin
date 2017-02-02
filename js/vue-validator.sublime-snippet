@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-validator/${1:2.1.7}/vue-validator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vue-validator</tabTrigger>
+<description>Vue-validator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

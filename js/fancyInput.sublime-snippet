@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fancyInput/${1:1.2.0}/fancyInput.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fancyInput</tabTrigger>
+<description>Fancyinput</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

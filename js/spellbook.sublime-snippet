@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/spellbook/${1:0.0.94}/spellbook.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-spellbook</tabTrigger>
+<description>Spellbook</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

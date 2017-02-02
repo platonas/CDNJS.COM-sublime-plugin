@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/${1:5.0.7}/highcharts.js"></script>
 ]]></content>
 <tabTrigger>cdn-highcharts</tabTrigger>
+<description>Highcharts</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ninjaui/${1:1.0.1}/jquery.ninjaui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ninjaui</tabTrigger>
+<description>Ninjaui</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

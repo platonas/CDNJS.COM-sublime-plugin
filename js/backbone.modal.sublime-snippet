@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.modal/${1:1.1.5}/backbone.modal-bundled-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backbone.modal</tabTrigger>
+<description>Backbone.modal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

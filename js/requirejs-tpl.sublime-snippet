@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-tpl/${1:0.0.2}/tpl.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-requirejs-tpl</tabTrigger>
+<description>Requirejs-tpl</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

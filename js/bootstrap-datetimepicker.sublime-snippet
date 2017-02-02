@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/${1:4.17.45}/js/bootstrap-datetimepicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-datetimepicker</tabTrigger>
+<description>Bootstrap-datetimepicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

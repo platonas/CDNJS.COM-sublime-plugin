@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/${1:4.0.0-alpha.6}/js/bootstrap.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-twitter-bootstrap</tabTrigger>
+<description>Twitter-bootstrap</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

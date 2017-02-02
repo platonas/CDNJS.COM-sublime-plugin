@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/oz.js/${1:2.6.4}/oz.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-oz.js</tabTrigger>
+<description>Oz.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/simplex-noise/${1:2.3.0}/simplex-noise.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-simplex-noise</tabTrigger>
+<description>Simplex-noise</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

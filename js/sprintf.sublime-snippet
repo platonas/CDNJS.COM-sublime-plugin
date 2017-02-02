@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/sprintf/${1:1.0.3}/sprintf.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-sprintf</tabTrigger>
+<description>Sprintf</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

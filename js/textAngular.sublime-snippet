@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/textAngular/${1:1.5.16}/textAngular.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-textAngular</tabTrigger>
+<description>Textangular</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

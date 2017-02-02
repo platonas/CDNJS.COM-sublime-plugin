@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/js-sha512/${1:0.3.0}/sha512.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-js-sha512</tabTrigger>
+<description>Js-sha512</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

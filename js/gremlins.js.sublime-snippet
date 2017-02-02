@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gremlins.js/${1:0.1.0}/gremlins.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gremlins.js</tabTrigger>
+<description>Gremlins.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

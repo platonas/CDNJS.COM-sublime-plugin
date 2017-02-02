@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/rome/${1:2.1.22}/rome.standalone.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-rome</tabTrigger>
+<description>Rome</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

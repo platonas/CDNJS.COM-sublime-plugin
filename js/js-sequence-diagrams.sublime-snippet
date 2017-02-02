@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/${1:1.0.6}/sequence-diagram-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-js-sequence-diagrams</tabTrigger>
+<description>Js-sequence-diagrams</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

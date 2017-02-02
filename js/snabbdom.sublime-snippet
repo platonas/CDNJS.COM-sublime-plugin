@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/snabbdom/${1:0.6.3}/snabbdom.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-snabbdom</tabTrigger>
+<description>Snabbdom</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

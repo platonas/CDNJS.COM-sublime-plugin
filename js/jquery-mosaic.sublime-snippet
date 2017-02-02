@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mosaic/${1:0.131}/jquery.mosaic.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-mosaic</tabTrigger>
+<description>Jquery-mosaic</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

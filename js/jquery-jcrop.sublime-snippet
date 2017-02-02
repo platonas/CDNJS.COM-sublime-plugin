@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-jcrop/${1:2.0.4}/js/Jcrop.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-jcrop</tabTrigger>
+<description>Jquery-jcrop</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

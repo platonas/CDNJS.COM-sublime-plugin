@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/baffle.js/${1:0.3.6}/baffle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-baffle.js</tabTrigger>
+<description>Baffle.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

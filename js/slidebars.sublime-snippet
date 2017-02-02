@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/slidebars/${1:2.0.2}/slidebars.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-slidebars</tabTrigger>
+<description>Slidebars</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/${1:4.0.2}/shuffle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Shuffle</tabTrigger>
+<description>Shuffle</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

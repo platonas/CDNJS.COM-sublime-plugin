@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/${1:0.35.3}/es6-shim.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-es6-shim</tabTrigger>
+<description>Es6-shim</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

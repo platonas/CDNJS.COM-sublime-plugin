@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-viewport-checker/${1:1.8.7}/jquery.viewportchecker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jQuery-viewport-checker</tabTrigger>
+<description>Jquery-viewport-checker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

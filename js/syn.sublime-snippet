@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/syn/${1:0.3.0}/cjs/syn.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-syn</tabTrigger>
+<description>Syn</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/origamijs/${1:0.5.1}/origami.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-origamijs</tabTrigger>
+<description>Origamijs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

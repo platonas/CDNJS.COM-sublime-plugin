@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jcanvas/${1:16.7.3}/jcanvas.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jcanvas</tabTrigger>
+<description>Jcanvas</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/loaders.css/${1:0.1.2}/loaders.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-loaders.css</tabTrigger>
+<description>Loaders.css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

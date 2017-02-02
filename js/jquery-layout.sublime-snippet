@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-layout/${1:1.4.3}/jquery.layout.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-layout</tabTrigger>
+<description>Jquery-layout</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jets/${1:0.13.0}/jets.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jets</tabTrigger>
+<description>Jets</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/svg.draggy.js/${1:1.1.1}/svg.draggy.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-svg.draggy.js</tabTrigger>
+<description>Svg.draggy.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

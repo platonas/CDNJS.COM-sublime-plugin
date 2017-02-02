@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/${1:2.0.7}/marx.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-marx</tabTrigger>
+<description>Marx</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

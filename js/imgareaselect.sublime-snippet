@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/imgareaselect/${1:0.9.10}/js/jquery.imgareaselect.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-imgareaselect</tabTrigger>
+<description>Imgareaselect</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

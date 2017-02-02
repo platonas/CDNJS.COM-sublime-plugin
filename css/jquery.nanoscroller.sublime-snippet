@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/${1:0.8.7}/css/nanoscroller.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-jquery.nanoscroller</tabTrigger>
+<description>Jquery.nanoscroller</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

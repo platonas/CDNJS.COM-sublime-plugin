@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-lang-js/${1:3.0.0}/jquery-lang.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-lang-js</tabTrigger>
+<description>Jquery-lang-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

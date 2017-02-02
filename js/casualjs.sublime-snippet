@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/casualjs/${1:0.1.2}/casual.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-casualjs</tabTrigger>
+<description>Casualjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

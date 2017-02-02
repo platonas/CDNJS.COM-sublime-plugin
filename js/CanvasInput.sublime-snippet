@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/CanvasInput/${1:1.2.4}/CanvasInput.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-CanvasInput</tabTrigger>
+<description>Canvasinput</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

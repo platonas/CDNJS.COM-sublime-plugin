@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/${1:0.12.4}/js/selectize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-selectize.js</tabTrigger>
+<description>Selectize.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

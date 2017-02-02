@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-tilelayer-geojson/${1:1.0.4}/TileLayer.GeoJSON.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet-tilelayer-geojson</tabTrigger>
+<description>Leaflet-tilelayer-geojson</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

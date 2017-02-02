@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/x-tag/${1:1.5.11}/x-tag-core.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-x-tag</tabTrigger>
+<description>X-tag</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

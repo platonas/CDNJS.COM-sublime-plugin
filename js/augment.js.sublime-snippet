@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/augment.js/${1:1.0.0}/augment.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-augment.js</tabTrigger>
+<description>Augment.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

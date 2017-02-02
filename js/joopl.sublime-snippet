@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/joopl/${1:2.3.0}/joopl.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-joopl</tabTrigger>
+<description>Joopl</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

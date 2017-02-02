@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vee-validate/${1:0.9.3}/vee-validate.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vee-validate</tabTrigger>
+<description>Vee-validate</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

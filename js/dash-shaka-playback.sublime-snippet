@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dash-shaka-playback/${1:2.0.4}/dash-shaka-playback.js"></script>
 ]]></content>
 <tabTrigger>cdn-dash-shaka-playback</tabTrigger>
+<description>Dash-shaka-playback</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

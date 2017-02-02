@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-details/${1:0.1.0}/jquery.details.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-details</tabTrigger>
+<description>Jquery-details</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/entypo/${1:2.0}/entypo.woff"></script>
 ]]></content>
 <tabTrigger>cdn-entypo</tabTrigger>
+<description>Entypo</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

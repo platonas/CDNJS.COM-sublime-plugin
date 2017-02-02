@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-local-storage/${1:0.5.2}/angular-local-storage.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-local-storage</tabTrigger>
+<description>Angular-local-storage</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

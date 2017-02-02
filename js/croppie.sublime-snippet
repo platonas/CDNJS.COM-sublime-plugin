@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/croppie/${1:2.4.0}/croppie.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-croppie</tabTrigger>
+<description>Croppie</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

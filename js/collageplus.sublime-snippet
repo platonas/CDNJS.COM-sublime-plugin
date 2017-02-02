@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/collageplus/${1:0.3.3}/jquery.collagePlus.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-collageplus</tabTrigger>
+<description>Collageplus</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

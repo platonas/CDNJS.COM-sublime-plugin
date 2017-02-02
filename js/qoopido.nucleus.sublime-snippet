@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/qoopido.nucleus/${1:2.0.3}/base.js"></script>
 ]]></content>
 <tabTrigger>cdn-qoopido.nucleus</tabTrigger>
+<description>Qoopido.nucleus</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-Validation-Engine/${1:2.6.4}/jquery.validationEngine.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jQuery-Validation-Engine</tabTrigger>
+<description>Jquery-validation-engine</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vide/${1:0.5.1}/jquery.vide.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vide</tabTrigger>
+<description>Vide</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

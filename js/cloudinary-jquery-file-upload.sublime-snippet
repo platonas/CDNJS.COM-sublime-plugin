@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-jquery-file-upload/${1:2.1.9}/cloudinary-jquery-file-upload.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cloudinary-jquery-file-upload</tabTrigger>
+<description>Cloudinary-jquery-file-upload</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

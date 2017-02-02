@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/${1:4.0.2}/bootstrap-material-design.umd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-material-design</tabTrigger>
+<description>Bootstrap-material-design</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

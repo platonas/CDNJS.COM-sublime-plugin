@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cutjs/${1:0.4.14}/cut.web.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cutjs</tabTrigger>
+<description>Cutjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

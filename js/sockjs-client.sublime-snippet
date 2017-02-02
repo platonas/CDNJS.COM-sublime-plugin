@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/${1:1.1.2}/sockjs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-sockjs-client</tabTrigger>
+<description>Sockjs-client</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

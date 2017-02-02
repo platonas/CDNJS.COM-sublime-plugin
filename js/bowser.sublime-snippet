@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bowser/${1:1.0.0}/bowser.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bowser</tabTrigger>
+<description>Bowser</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

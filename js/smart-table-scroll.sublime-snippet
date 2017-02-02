@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/smart-table-scroll/${1:0.2.0}/smart-table-scroll.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-smart-table-scroll</tabTrigger>
+<description>Smart-table-scroll</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

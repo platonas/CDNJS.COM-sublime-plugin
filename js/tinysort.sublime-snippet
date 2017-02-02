@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tinysort/${1:2.3.6}/tinysort.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tinysort</tabTrigger>
+<description>Tinysort</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

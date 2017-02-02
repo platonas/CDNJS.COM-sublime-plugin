@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aframe/${1:0.4.0}/aframe.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-aframe</tabTrigger>
+<description>Aframe</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

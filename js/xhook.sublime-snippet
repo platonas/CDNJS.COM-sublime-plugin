@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/xhook/${1:1.3.5}/xhook.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-xhook</tabTrigger>
+<description>Xhook</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

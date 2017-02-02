@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-handlebars/${1:0.0.2}/hbars.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-requirejs-handlebars</tabTrigger>
+<description>Requirejs-handlebars</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

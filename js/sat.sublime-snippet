@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/sat/${1:0.6.0}/SAT.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-sat</tabTrigger>
+<description>Sat</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

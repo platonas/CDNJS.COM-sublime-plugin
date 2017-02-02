@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-mask/${1:1.8.7}/mask.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-ui-mask</tabTrigger>
+<description>Angular-ui-mask</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

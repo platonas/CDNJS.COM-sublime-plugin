@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/salvattore/${1:1.0.9}/salvattore.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-salvattore</tabTrigger>
+<description>Salvattore</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

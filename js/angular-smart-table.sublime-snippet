@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-smart-table/${1:2.1.8}/smart-table.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-smart-table</tabTrigger>
+<description>Angular-smart-table</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

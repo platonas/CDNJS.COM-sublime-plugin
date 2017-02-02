@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ajile/${1:2.1.7}/com.iskitz.ajile.js"></script>
 ]]></content>
 <tabTrigger>cdn-ajile</tabTrigger>
+<description>Ajile</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

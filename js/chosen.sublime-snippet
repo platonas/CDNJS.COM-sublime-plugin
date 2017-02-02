@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/${1:1.6.2}/chosen.jquery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-chosen</tabTrigger>
+<description>Chosen</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

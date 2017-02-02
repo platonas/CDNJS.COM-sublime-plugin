@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rating/${1:1.4.0}/bootstrap-rating.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-rating</tabTrigger>
+<description>Bootstrap-rating</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/co/${1:4.1.0}/index.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-co</tabTrigger>
+<description>Co</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

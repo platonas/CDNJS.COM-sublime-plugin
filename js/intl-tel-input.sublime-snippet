@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/${1:10.0.8}/js/intlTelInput.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-intl-tel-input</tabTrigger>
+<description>Intl-tel-input</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

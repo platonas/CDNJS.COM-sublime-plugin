@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cookieBar/${1:0.0.1}/jquery.cookieBar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.cookieBar</tabTrigger>
+<description>Jquery.cookiebar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

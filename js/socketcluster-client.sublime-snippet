@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/socketcluster-client/${1:5.2.4}/socketcluster.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-socketcluster-client</tabTrigger>
+<description>Socketcluster-client</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

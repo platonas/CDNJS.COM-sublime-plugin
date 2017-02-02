@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/transitionize/${1:0.0.3}/transitionize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-transitionize</tabTrigger>
+<description>Transitionize</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

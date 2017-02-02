@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/${1:5.0.0}/normalize.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-normalize</tabTrigger>
+<description>Normalize</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/knuth-shuffle/${1:1.0.1}/index.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-knuth-shuffle</tabTrigger>
+<description>Knuth-shuffle</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.caroufredsel/${1:6.2.1}/jquery.carouFredSel.packed.js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.caroufredsel</tabTrigger>
+<description>Jquery.caroufredsel</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

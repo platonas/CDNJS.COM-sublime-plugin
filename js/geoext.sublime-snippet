@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/geoext/${1:1.1}/script/GeoExt.js"></script>
 ]]></content>
 <tabTrigger>cdn-geoext</tabTrigger>
+<description>Geoext</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

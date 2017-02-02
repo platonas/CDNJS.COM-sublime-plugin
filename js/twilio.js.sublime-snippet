@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/twilio.js/${1:1.2.0}/twilio.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-twilio.js</tabTrigger>
+<description>Twilio.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

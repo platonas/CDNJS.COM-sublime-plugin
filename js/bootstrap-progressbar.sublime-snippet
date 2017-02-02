@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-progressbar/${1:0.9.0}/bootstrap-progressbar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-progressbar</tabTrigger>
+<description>Bootstrap-progressbar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

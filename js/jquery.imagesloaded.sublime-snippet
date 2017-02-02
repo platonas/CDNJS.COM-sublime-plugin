@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/${1:4.1.1}/imagesloaded.pkgd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.imagesloaded</tabTrigger>
+<description>Jquery.imagesloaded</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

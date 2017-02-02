@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/${1:1.0.1}/slideout.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-slideout</tabTrigger>
+<description>Slideout</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

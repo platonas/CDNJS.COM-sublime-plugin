@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.percentageloader/${1:0.1.0}/jquery.percentageloader.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.percentageloader</tabTrigger>
+<description>Jquery.percentageloader</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

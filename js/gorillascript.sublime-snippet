@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gorillascript/${1:0.9.10}/gorillascript.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gorillascript</tabTrigger>
+<description>Gorillascript</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

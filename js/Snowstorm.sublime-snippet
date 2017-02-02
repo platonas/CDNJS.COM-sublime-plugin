@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Snowstorm/${1:20131208}/snowstorm-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Snowstorm</tabTrigger>
+<description>Snowstorm</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

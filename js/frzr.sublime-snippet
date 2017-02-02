@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/frzr/${1:0.22.7}/frzr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-frzr</tabTrigger>
+<description>Frzr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

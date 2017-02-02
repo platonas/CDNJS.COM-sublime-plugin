@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-smart-table/${1:2.5.0}/vue-smart-table.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vue-smart-table</tabTrigger>
+<description>Vue-smart-table</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

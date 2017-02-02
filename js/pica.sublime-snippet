@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pica/${1:2.0.8}/pica.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pica</tabTrigger>
+<description>Pica</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

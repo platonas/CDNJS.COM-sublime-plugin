@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bucky/${1:0.2.8}/bucky.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bucky</tabTrigger>
+<description>Bucky</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

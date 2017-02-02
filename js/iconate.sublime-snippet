@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/iconate/${1:0.2.7}/iconate.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-iconate</tabTrigger>
+<description>Iconate</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

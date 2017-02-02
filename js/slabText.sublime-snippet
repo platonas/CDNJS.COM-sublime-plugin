@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/slabText/${1:2.3}/jquery.slabtext.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-slabText</tabTrigger>
+<description>Slabtext</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

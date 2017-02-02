@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/libil/${1:0.1.2}/libil.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-libil</tabTrigger>
+<description>Libil</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

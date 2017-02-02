@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-quill/${1:2.2.2}/ng-quill.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-quill</tabTrigger>
+<description>Ng-quill</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

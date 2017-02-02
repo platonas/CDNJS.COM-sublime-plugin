@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.validation/${1:0.11.5}/backbone-validation-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backbone.validation</tabTrigger>
+<description>Backbone.validation</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

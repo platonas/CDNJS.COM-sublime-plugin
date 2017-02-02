@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/${1:0.9.12}/jquery.transit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.transit</tabTrigger>
+<description>Jquery.transit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

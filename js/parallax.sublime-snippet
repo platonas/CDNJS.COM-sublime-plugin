@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/${1:2.1.3}/parallax.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-parallax</tabTrigger>
+<description>Parallax</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

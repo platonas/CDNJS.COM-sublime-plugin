@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-twinkle/${1:0.8.0}/jquery.twinkle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-twinkle</tabTrigger>
+<description>Jquery-twinkle</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

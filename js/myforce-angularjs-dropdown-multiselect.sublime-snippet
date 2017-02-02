@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/myforce-angularjs-dropdown-multiselect/${1:1.10.2}/angularjs-dropdown-multiselect.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-myforce-angularjs-dropdown-multiselect</tabTrigger>
+<description>Myforce-angularjs-dropdown-multiselect</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

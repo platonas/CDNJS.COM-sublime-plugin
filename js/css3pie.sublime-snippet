@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/css3pie/${1:2.0beta1}/PIE_IE678.js"></script>
 ]]></content>
 <tabTrigger>cdn-css3pie</tabTrigger>
+<description>Css3pie</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dollar.js/${1:1.5.1}/dollar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dollar.js</tabTrigger>
+<description>Dollar.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

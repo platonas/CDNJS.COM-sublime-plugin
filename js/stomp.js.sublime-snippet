@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/${1:2.3.3}/stomp.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-stomp.js</tabTrigger>
+<description>Stomp.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

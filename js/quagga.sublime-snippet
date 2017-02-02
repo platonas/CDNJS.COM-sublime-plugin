@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/quagga/${1:0.11.6}/quagga.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-quagga</tabTrigger>
+<description>Quagga</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

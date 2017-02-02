@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-pusher/${1:0.0.14}/angular-pusher.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-pusher</tabTrigger>
+<description>Angular-pusher</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

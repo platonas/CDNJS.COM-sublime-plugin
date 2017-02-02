@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jointjs/${1:1.0.3}/joint.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jointjs</tabTrigger>
+<description>Jointjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/list.fuzzysearch.js/${1:0.1.0}/list.fuzzysearch.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-list.fuzzysearch.js</tabTrigger>
+<description>List.fuzzysearch.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

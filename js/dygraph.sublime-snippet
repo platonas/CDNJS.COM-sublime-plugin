@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/${1:1.1.1}/dygraph-combined.js"></script>
 ]]></content>
 <tabTrigger>cdn-dygraph</tabTrigger>
+<description>Dygraph</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

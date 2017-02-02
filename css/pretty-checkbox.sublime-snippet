@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/${1:2.1.0}/pretty.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-pretty-checkbox</tabTrigger>
+<description>Pretty-checkbox</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

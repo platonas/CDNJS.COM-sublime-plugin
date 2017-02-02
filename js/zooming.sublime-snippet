@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/zooming/${1:1.0.10}/zooming.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-zooming</tabTrigger>
+<description>Zooming</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs-jquery/${1:1.1.6}/rx.jquery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-rxjs-jquery</tabTrigger>
+<description>Rxjs-jquery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/${1:2.0.7}/fontfaceobserver.standalone.js"></script>
 ]]></content>
 <tabTrigger>cdn-fontfaceobserver</tabTrigger>
+<description>Fontfaceobserver</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

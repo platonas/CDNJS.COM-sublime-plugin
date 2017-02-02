@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gas/${1:1.11.0}/gas.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gas</tabTrigger>
+<description>Gas</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

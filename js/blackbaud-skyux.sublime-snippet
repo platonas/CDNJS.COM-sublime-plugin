@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/blackbaud-skyux/${1:1.13.1}/js/sky.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-blackbaud-skyux</tabTrigger>
+<description>Blackbaud-skyux</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

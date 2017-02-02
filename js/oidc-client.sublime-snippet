@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/oidc-client/${1:1.2.2}/oidc-client.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-oidc-client</tabTrigger>
+<description>Oidc-client</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

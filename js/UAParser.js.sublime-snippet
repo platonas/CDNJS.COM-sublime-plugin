@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/UAParser.js/${1:0.7.12}/ua-parser.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-UAParser.js</tabTrigger>
+<description>Uaparser.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

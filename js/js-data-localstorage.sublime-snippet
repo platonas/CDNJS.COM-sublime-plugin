@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/js-data-localstorage/${1:2.3.2}/js-data-localstorage.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-js-data-localstorage</tabTrigger>
+<description>Js-data-localstorage</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

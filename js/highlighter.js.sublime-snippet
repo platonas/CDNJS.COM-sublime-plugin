@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/highlighter.js/${1:1.0.0}/highlighter.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-highlighter.js</tabTrigger>
+<description>Highlighter.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

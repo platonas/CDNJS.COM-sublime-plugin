@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/requirejs-plugins/${1:1.0.3}/async.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-requirejs-plugins</tabTrigger>
+<description>Requirejs-plugins</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

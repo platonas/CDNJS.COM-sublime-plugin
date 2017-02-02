@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/html-minifier/${1:3.3.0}/htmlminifier.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-html-minifier</tabTrigger>
+<description>Html-minifier</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

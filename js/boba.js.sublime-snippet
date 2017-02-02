@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/boba.js/${1:1.0.3}/boba.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-boba.js</tabTrigger>
+<description>Boba.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ngHandsontable/${1:0.13.0}/ngHandsontable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ngHandsontable</tabTrigger>
+<description>Nghandsontable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

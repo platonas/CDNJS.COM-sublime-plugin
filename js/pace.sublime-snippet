@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pace/${1:1.0.2}/pace.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pace</tabTrigger>
+<description>Pace</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

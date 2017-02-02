@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.paginator/${1:2.0.5}/backbone.paginator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backbone.paginator</tabTrigger>
+<description>Backbone.paginator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

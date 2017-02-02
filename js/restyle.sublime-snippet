@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/restyle/${1:0.7.0}/restyle.js"></script>
 ]]></content>
 <tabTrigger>cdn-restyle</tabTrigger>
+<description>Restyle</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

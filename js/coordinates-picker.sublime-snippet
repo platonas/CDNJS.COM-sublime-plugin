@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/coordinates-picker/${1:1.0.0}/coordinates-picker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-coordinates-picker</tabTrigger>
+<description>Coordinates-picker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

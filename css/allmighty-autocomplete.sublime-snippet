@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/allmighty-autocomplete/${1:1.0.140706}/autocomplete.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-allmighty-autocomplete</tabTrigger>
+<description>Allmighty-autocomplete</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

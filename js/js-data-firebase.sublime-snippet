@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/js-data-firebase/${1:2.1.1}/js-data-firebase.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-js-data-firebase</tabTrigger>
+<description>Js-data-firebase</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

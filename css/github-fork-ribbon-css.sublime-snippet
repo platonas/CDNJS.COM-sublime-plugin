@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/${1:0.2.0}/gh-fork-ribbon.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-github-fork-ribbon-css</tabTrigger>
+<description>Github-fork-ribbon-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

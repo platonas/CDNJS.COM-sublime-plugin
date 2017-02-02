@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jit/${1:2.0.2}/jit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jit</tabTrigger>
+<description>Jit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

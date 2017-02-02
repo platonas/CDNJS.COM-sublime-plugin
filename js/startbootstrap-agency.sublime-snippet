@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-agency/${1:3.3.7}/js/agency.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-startbootstrap-agency</tabTrigger>
+<description>Startbootstrap-agency</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/responsive-nav.js/${1:1.0.39}/responsive-nav.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-responsive-nav.js</tabTrigger>
+<description>Responsive-nav.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

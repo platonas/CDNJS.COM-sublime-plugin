@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-moment/${1:1.0.1}/angular-moment.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-moment</tabTrigger>
+<description>Angular-moment</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/riloadr/${1:1.5.3}/riloadr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-riloadr</tabTrigger>
+<description>Riloadr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

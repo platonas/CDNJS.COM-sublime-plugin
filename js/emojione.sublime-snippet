@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/emojione/${1:2.2.7}/lib/js/emojione.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-emojione</tabTrigger>
+<description>Emojione</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

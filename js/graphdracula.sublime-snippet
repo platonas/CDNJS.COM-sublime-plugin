@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/graphdracula/${1:1.1.0}/dracula.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-graphdracula</tabTrigger>
+<description>Graphdracula</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/${1:2.9.0}/aws-sdk.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-aws-sdk</tabTrigger>
+<description>Aws-sdk</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

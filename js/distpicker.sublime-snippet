@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/distpicker/${1:1.0.4}/distpicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-distpicker</tabTrigger>
+<description>Distpicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

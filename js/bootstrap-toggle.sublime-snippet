@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-toggle/${1:2.2.2}/js/bootstrap-toggle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-toggle</tabTrigger>
+<description>Bootstrap-toggle</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

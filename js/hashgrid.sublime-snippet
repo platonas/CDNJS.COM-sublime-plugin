@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/hashgrid/${1:6}/hashgrid.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-hashgrid</tabTrigger>
+<description>Hashgrid</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

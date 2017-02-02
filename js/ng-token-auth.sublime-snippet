@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-token-auth/${1:0.0.29}/ng-token-auth.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-token-auth</tabTrigger>
+<description>Ng-token-auth</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

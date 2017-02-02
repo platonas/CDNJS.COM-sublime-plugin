@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ionic-framework/${1:2.0.0-beta.2}/ionic.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ionic-framework</tabTrigger>
+<description>Ionic-framework</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

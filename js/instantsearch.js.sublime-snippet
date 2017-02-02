@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/${1:1.10.4}/instantsearch.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-instantsearch.js</tabTrigger>
+<description>Instantsearch.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

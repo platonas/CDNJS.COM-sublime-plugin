@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/${1:3.6.3}/js/jquery.justifiedGallery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-justifiedGallery</tabTrigger>
+<description>Justifiedgallery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

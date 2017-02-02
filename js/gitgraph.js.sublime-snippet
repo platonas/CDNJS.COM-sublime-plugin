@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/gitgraph.js/${1:1.8.3}/gitgraph.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-gitgraph.js</tabTrigger>
+<description>Gitgraph.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

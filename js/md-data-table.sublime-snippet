@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/md-data-table/${1:2.2.0}/md-data-table.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-md-data-table</tabTrigger>
+<description>Md-data-table</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

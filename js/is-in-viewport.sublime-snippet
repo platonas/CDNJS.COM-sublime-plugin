@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/is-in-viewport/${1:2.4.2}/isInViewport.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-is-in-viewport</tabTrigger>
+<description>Is-in-viewport</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

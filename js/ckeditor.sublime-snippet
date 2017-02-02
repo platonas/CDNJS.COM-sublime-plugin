@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ckeditor/${1:4.6.2}/ckeditor.js"></script>
 ]]></content>
 <tabTrigger>cdn-ckeditor</tabTrigger>
+<description>Ckeditor</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

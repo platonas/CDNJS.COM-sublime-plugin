@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-js-bootstrap-datetimepicker/${1:2.0.3}/datetimepicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-js-bootstrap-datetimepicker</tabTrigger>
+<description>Angular-js-bootstrap-datetimepicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

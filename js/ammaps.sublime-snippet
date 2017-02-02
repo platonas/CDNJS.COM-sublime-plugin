@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ammaps/${1:3.13.0}/ammap.js"></script>
 ]]></content>
 <tabTrigger>cdn-ammaps</tabTrigger>
+<description>Ammaps</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

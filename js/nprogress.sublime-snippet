@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/${1:0.2.0}/nprogress.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-nprogress</tabTrigger>
+<description>Nprogress</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

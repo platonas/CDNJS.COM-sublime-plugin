@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/${1:1.9.1}/jquery.lazyload.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.lazyload</tabTrigger>
+<description>Jquery.lazyload</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

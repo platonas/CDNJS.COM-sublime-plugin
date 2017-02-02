@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/videomail-client/${1:1.22.11}/videomail-client.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-videomail-client</tabTrigger>
+<description>Videomail-client</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

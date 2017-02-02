@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/framework7/${1:1.5.2}/js/framework7.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-framework7</tabTrigger>
+<description>Framework7</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

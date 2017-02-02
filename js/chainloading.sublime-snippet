@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/chainloading/${1:1.1.1}/chainloading.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-chainloading</tabTrigger>
+<description>Chainloading</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

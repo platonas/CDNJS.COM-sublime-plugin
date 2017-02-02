@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/roslibjs/${1:0.18.0}/roslib.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-roslibjs</tabTrigger>
+<description>Roslibjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

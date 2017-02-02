@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/graingert-wow/${1:1.2.2}/wow.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-graingert-wow</tabTrigger>
+<description>Graingert-wow</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

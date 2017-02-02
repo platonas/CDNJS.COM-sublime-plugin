@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/smalot-bootstrap-datetimepicker/${1:2.4.3}/js/bootstrap-datetimepicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-smalot-bootstrap-datetimepicker</tabTrigger>
+<description>Smalot-bootstrap-datetimepicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/clank/${1:0.3.6}/clank.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-clank</tabTrigger>
+<description>Clank</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

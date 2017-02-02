@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/${1:2.1.0}/toaster.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angularjs-toaster</tabTrigger>
+<description>Angularjs-toaster</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

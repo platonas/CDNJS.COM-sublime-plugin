@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/nice-validator/${1:1.0.9}/jquery.validator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-nice-validator</tabTrigger>
+<description>Nice-validator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

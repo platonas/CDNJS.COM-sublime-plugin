@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jscroll/${1:2.3.7}/jquery.jscroll.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jscroll</tabTrigger>
+<description>Jscroll</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

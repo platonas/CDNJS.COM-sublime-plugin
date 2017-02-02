@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-context-menu/${1:1.0.2}/ng-context-menu.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-context-menu</tabTrigger>
+<description>Ng-context-menu</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

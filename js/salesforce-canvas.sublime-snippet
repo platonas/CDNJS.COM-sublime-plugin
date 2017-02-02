@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/salesforce-canvas/${1:27.0}/canvas-all.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-salesforce-canvas</tabTrigger>
+<description>Salesforce-canvas</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

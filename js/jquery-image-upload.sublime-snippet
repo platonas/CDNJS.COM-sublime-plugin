@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-image-upload/${1:1.2.0}/jQuery-image-upload.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-image-upload</tabTrigger>
+<description>Jquery-image-upload</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

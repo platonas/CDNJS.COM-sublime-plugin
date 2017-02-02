@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ornajs/${1:3.3.7}/orna.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ornajs</tabTrigger>
+<description>Ornajs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

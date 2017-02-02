@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cache.adderall/${1:0.1.0}/cache.adderall.js"></script>
 ]]></content>
 <tabTrigger>cdn-cache.adderall</tabTrigger>
+<description>Cache.adderall</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

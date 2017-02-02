@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/topcoat-icons/${1:0.1.0}/font/icomatic.css" />
 ]]></content>
 <tabTrigger>cdn-topcoat-icons</tabTrigger>
+<description>Topcoat-icons</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

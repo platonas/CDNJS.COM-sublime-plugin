@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/${1:2.1.1}/aos.js"></script>
 ]]></content>
 <tabTrigger>cdn-aos</tabTrigger>
+<description>Aos</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

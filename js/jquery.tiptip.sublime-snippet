@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tiptip/${1:1.3}/jquery.tipTip.minified.js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.tiptip</tabTrigger>
+<description>Jquery.tiptip</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

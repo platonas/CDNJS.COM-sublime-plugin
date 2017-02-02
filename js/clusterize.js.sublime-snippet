@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/${1:0.17.2}/clusterize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-clusterize.js</tabTrigger>
+<description>Clusterize.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

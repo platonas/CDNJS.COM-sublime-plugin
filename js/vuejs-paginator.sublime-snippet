@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vuejs-paginator/${1:2.0.0}/vuejs-paginator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vuejs-paginator</tabTrigger>
+<description>Vuejs-paginator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/snackbarjs/${1:1.1.0}/snackbar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-snackbarjs</tabTrigger>
+<description>Snackbarjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

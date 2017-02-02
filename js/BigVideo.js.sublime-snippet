@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/BigVideo.js/${1:1.1.5}/lib/bigvideo.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-BigVideo.js</tabTrigger>
+<description>Bigvideo.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

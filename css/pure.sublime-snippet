@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/${1:0.6.2}/pure-${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-pure</tabTrigger>
+<description>Pure</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

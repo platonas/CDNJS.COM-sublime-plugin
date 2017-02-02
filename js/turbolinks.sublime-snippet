@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/turbolinks/${1:5.0.0}/turbolinks.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-turbolinks</tabTrigger>
+<description>Turbolinks</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

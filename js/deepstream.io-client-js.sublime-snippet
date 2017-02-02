@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/deepstream.io-client-js/${1:2.1.1}/deepstream.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-deepstream.io-client-js</tabTrigger>
+<description>Deepstream.io-client-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

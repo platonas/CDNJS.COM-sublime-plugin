@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/${1:2.5.2}/dom-to-image.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-dom-to-image</tabTrigger>
+<description>Dom-to-image</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

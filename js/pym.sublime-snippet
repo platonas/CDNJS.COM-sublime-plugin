@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pym/${1:1.1.2}/pym.v1.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pym</tabTrigger>
+<description>Pym</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/history/${1:4.5.1}/history.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-history</tabTrigger>
+<description>History</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

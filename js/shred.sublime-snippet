@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/shred/${1:0.8.10}/shred.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-shred</tabTrigger>
+<description>Shred</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/perliedman-leaflet-control-geocoder/${1:1.5.4}/Control.Geocoder.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-perliedman-leaflet-control-geocoder</tabTrigger>
+<description>Perliedman-leaflet-control-geocoder</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

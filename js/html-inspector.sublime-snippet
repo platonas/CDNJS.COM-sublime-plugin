@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/html-inspector/${1:0.8.2}/html-inspector.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-html-inspector</tabTrigger>
+<description>Html-inspector</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

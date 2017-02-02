@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/${1:0.6.19}/hls.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-hls.js</tabTrigger>
+<description>Hls.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

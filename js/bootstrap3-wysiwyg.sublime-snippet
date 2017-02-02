@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap3-wysiwyg/${1:0.3.3}/bootstrap3-wysihtml5.all.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap3-wysiwyg</tabTrigger>
+<description>Bootstrap3-wysiwyg</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

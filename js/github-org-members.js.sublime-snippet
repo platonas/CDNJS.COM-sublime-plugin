@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/github-org-members.js/${1:1.2.4}/github-org-members.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-github-org-members.js</tabTrigger>
+<description>Github-org-members.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables-colvis/${1:1.1.2}/js/dataTables.colVis.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-datatables-colvis</tabTrigger>
+<description>Datatables-colvis</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

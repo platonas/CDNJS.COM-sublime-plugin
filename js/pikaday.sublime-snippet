@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/${1:1.5.1}/pikaday.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-pikaday</tabTrigger>
+<description>Pikaday</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/summernote/${1:0.8.2}/summernote.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-summernote</tabTrigger>
+<description>Summernote</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

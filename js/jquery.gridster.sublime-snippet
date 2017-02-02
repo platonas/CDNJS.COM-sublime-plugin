@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.gridster/${1:0.5.6}/jquery.gridster.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.gridster</tabTrigger>
+<description>Jquery.gridster</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

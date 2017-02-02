@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cosmicjs/${1:2.37.0}/cosmicjs.browser.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cosmicjs</tabTrigger>
+<description>Cosmicjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/kineticjs/${1:5.2.0}/kinetic.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-kineticjs</tabTrigger>
+<description>Kineticjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

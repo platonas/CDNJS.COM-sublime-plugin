@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap.native/${1:2.0.1}/bootstrap-native.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap.native</tabTrigger>
+<description>Bootstrap.native</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

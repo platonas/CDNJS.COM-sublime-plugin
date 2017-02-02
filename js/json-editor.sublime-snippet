@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/json-editor/${1:0.7.28}/jsoneditor.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-json-editor</tabTrigger>
+<description>Json-editor</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/flowplayer/${1:5.4.6}/flowplayer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-flowplayer</tabTrigger>
+<description>Flowplayer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

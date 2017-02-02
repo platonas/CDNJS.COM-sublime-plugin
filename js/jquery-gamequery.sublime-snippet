@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-gamequery/${1:0.7.0}/jquery.gamequery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-gamequery</tabTrigger>
+<description>Jquery-gamequery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/medium-editor/${1:5.22.2}/js/medium-editor.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-medium-editor</tabTrigger>
+<description>Medium-editor</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

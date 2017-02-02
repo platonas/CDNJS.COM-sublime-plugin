@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/headjs/${1:1.0.3}/head.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-headjs</tabTrigger>
+<description>Headjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/blendui/${1:0.0.4}/BlendHybridUI.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-blendui</tabTrigger>
+<description>Blendui</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

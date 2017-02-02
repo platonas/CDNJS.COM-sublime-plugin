@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/${1:1.4.2}/Control.FullScreen.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet.fullscreen</tabTrigger>
+<description>Leaflet.fullscreen</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/js-url/${1:2.3.1}/url.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-js-url</tabTrigger>
+<description>Js-url</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

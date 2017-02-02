@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/webuploader/${1:0.1.1}/webuploader.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-webuploader</tabTrigger>
+<description>Webuploader</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

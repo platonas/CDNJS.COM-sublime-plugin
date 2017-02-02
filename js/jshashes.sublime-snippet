@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jshashes/${1:1.0.6}/hashes.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jshashes</tabTrigger>
+<description>Jshashes</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

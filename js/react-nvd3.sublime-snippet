@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-nvd3/${1:0.5.7}/react-nvd3.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-nvd3</tabTrigger>
+<description>React-nvd3</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

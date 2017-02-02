@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate-loader-partial/${1:2.13.1}/angular-translate-loader-partial.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-translate-loader-partial</tabTrigger>
+<description>Angular-translate-loader-partial</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

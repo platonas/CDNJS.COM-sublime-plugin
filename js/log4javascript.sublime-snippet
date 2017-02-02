@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/log4javascript/${1:1.4.9}/log4javascript.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-log4javascript</tabTrigger>
+<description>Log4javascript</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

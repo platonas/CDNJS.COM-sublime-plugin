@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/granim/${1:1.0.6}/granim.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-granim</tabTrigger>
+<description>Granim</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

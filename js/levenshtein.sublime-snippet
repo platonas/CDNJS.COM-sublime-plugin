@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/levenshtein/${1:1.0.5}/levenshtein.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-levenshtein</tabTrigger>
+<description>Levenshtein</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

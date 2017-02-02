@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/${1:4.0.2}/bootstrap3-typeahead.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-3-typeahead</tabTrigger>
+<description>Bootstrap-3-typeahead</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

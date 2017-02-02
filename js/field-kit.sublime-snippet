@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/field-kit/${1:2.1.0}/field-kit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-field-kit</tabTrigger>
+<description>Field-kit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

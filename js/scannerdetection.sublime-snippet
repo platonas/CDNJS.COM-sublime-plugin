@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/scannerdetection/${1:1.2.0}/jquery.scannerdetection.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-scannerdetection</tabTrigger>
+<description>Scannerdetection</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

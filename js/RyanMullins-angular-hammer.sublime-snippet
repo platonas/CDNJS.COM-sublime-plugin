@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/RyanMullins-angular-hammer/${1:2.2.0}/angular.hammer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-RyanMullins-angular-hammer</tabTrigger>
+<description>Ryanmullins-angular-hammer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

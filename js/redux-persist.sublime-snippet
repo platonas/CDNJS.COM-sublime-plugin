@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/redux-persist/${1:4.1.0}/redux-persist.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-redux-persist</tabTrigger>
+<description>Redux-persist</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

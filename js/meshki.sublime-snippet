@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/meshki/${1:1.4.2}/meshki.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-meshki</tabTrigger>
+<description>Meshki</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

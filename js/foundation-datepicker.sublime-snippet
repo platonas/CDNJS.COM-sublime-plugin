@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation-datepicker/${1:1.5.5}/js/foundation-datepicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-foundation-datepicker</tabTrigger>
+<description>Foundation-datepicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

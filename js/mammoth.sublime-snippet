@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/${1:1.3.2}/mammoth.browser.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-mammoth</tabTrigger>
+<description>Mammoth</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/async/${1:2.1.4}/async.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-async</tabTrigger>
+<description>Async</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

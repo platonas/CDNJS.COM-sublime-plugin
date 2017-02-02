@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/microbejs/${1:0.5.2}/microbe.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-microbejs</tabTrigger>
+<description>Microbejs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

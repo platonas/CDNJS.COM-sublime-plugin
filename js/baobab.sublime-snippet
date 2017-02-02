@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/baobab/${1:2.4.0}/baobab.js"></script>
 ]]></content>
 <tabTrigger>cdn-baobab</tabTrigger>
+<description>Baobab</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

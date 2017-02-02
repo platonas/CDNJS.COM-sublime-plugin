@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/persian.js/${1:0.3.0}/persian.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-persian.js</tabTrigger>
+<description>Persian.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

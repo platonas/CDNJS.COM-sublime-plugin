@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/parcoords/${1:0.7.0}/d3.parcoords.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-parcoords</tabTrigger>
+<description>Parcoords</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

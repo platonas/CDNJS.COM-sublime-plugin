@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/roundabout/${1:2.4.2}/jquery.roundabout.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-roundabout</tabTrigger>
+<description>Roundabout</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

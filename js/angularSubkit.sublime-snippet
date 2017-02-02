@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angularSubkit/${1:1.0.3}/angularsubkit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angularSubkit</tabTrigger>
+<description>Angularsubkit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

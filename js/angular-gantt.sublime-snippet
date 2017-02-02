@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-gantt/${1:1.3.0}/angular-gantt.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-gantt</tabTrigger>
+<description>Angular-gantt</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

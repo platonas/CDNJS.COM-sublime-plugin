@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ui-selectableScroll/${1:0.1.4}/selectableScroll.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ui-selectableScroll</tabTrigger>
+<description>Ui-selectablescroll</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

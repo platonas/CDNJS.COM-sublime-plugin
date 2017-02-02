@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/colorify.js/${1:1.0.3}/scripts/colorify.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-colorify.js</tabTrigger>
+<description>Colorify.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

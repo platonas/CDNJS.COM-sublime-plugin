@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-inlinesvg/${1:0.5.4}/react-inlinesvg.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-inlinesvg</tabTrigger>
+<description>React-inlinesvg</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

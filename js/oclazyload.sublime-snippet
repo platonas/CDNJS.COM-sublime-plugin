@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/oclazyload/${1:1.0.9}/ocLazyLoad.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-oclazyload</tabTrigger>
+<description>Oclazyload</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

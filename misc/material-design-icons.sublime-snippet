@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/${1:3.0.1}/maps/svg/production/ic_beenhere_24px.svg"></script>
 ]]></content>
 <tabTrigger>cdn-material-design-icons</tabTrigger>
+<description>Material-design-icons</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

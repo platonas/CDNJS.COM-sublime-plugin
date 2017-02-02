@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cplayer/${1:2.4.5}/cplayer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cplayer</tabTrigger>
+<description>Cplayer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

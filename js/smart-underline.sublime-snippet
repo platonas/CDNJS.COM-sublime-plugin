@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/smart-underline/${1:4.2.1}/js/smart-underline.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-smart-underline</tabTrigger>
+<description>Smart-underline</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

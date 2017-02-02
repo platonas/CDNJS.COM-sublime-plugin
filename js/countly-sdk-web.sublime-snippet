@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/countly-sdk-web/${1:16.12.1}/countly.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-countly-sdk-web</tabTrigger>
+<description>Countly-sdk-web</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

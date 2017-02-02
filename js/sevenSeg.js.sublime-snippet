@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/sevenSeg.js/${1:0.2.0}/sevenSeg.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-sevenSeg.js</tabTrigger>
+<description>Sevenseg.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

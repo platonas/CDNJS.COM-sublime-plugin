@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/show-your-terms/${1:1.1.1}/show-your-terms.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-show-your-terms</tabTrigger>
+<description>Show-your-terms</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

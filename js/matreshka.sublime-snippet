@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/matreshka/${1:1.9.1}/matreshka.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-matreshka</tabTrigger>
+<description>Matreshka</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

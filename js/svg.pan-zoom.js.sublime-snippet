@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/svg.pan-zoom.js/${1:2.8.0}/svg.pan-zoom.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-svg.pan-zoom.js</tabTrigger>
+<description>Svg.pan-zoom.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

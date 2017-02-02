@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/diff_match_patch/${1:20121119}/diff_match_patch.js"></script>
 ]]></content>
 <tabTrigger>cdn-diff_match_patch</tabTrigger>
+<description>Diff_match_patch</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/zxcvbn/${1:4.4.1}/zxcvbn.js"></script>
 ]]></content>
 <tabTrigger>cdn-zxcvbn</tabTrigger>
+<description>Zxcvbn</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

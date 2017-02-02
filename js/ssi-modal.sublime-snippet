@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ssi-modal/${1:1.0.27}/js/ssi-modal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ssi-modal</tabTrigger>
+<description>Ssi-modal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

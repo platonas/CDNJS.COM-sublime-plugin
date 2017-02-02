@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/strapdown-topbar/${1:1.6.4}/strapdown-topbar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-strapdown-topbar</tabTrigger>
+<description>Strapdown-topbar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

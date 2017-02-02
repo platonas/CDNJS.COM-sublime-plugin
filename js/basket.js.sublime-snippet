@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/basket.js/${1:0.5.2}/basket.full.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-basket.js</tabTrigger>
+<description>Basket.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

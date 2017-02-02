@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/wallop/${1:2.4.1}/js/Wallop.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-wallop</tabTrigger>
+<description>Wallop</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

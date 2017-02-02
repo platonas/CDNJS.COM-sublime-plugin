@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/kwargsjs/${1:1.0.1}/kwargs.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-kwargsjs</tabTrigger>
+<description>Kwargsjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

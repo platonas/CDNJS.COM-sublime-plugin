@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/split.js/${1:1.2.0}/split.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-split.js</tabTrigger>
+<description>Split.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

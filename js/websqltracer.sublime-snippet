@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/websqltracer/${1:1.0.3}/webSqlTracer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-websqltracer</tabTrigger>
+<description>Websqltracer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

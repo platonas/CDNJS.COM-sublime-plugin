@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-gravatar/${1:0.4.2}/angular-gravatar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-gravatar</tabTrigger>
+<description>Angular-gravatar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

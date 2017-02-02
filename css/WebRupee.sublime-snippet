@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/WebRupee/${1:2.0}/font.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-WebRupee</tabTrigger>
+<description>Webrupee</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

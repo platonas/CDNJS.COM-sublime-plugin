@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/json-mask/${1:0.3.8}/jsonMask.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-json-mask</tabTrigger>
+<description>Json-mask</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

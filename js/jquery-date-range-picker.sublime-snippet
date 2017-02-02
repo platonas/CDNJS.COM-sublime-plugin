@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-date-range-picker/${1:0.14.3}/jquery.daterangepicker.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-date-range-picker</tabTrigger>
+<description>Jquery-date-range-picker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/zone.js/${1:0.7.6}/zone.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-zone.js</tabTrigger>
+<description>Zone.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

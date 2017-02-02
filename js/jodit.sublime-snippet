@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jodit/${1:2.5.62}/jodit.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jodit</tabTrigger>
+<description>Jodit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

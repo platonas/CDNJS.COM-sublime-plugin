@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-xeditable/${1:0.6.0}/js/xeditable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-xeditable</tabTrigger>
+<description>Angular-xeditable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

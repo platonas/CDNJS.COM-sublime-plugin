@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/elm-runtime/${1:0.8.0.3}/elm-runtime.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-elm-runtime</tabTrigger>
+<description>Elm-runtime</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

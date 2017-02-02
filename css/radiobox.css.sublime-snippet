@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/radiobox.css/${1:1.0.1}/css/radiobox.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-radiobox.css</tabTrigger>
+<description>Radiobox.css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angulartics-google-analytics/${1:0.4.0}/angulartics-ga.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angulartics-google-analytics</tabTrigger>
+<description>Angulartics-google-analytics</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

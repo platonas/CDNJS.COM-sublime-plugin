@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/stampit/${1:3.1.2}/stampit.umd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-stampit</tabTrigger>
+<description>Stampit</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

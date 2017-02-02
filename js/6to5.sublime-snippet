@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/6to5/${1:3.6.5}/browser.js"></script>
 ]]></content>
 <tabTrigger>cdn-6to5</tabTrigger>
+<description>6to5</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

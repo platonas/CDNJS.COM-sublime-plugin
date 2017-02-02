@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ng-csv/${1:0.3.6}/ng-csv.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ng-csv</tabTrigger>
+<description>Ng-csv</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

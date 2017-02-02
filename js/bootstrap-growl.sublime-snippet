@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-growl/${1:1.0.0}/jquery.bootstrap-growl.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-bootstrap-growl</tabTrigger>
+<description>Bootstrap-growl</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/i18next-browser-languagedetector/${1:1.0.1}/i18nextBrowserLanguageDetector.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-i18next-browser-languagedetector</tabTrigger>
+<description>I18next-browser-languagedetector</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

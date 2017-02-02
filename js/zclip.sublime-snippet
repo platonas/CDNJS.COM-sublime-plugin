@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/zclip/${1:1.1.2}/jquery.zclip.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-zclip</tabTrigger>
+<description>Zclip</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

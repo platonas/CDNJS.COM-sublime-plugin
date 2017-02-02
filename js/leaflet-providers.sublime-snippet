@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-providers/${1:1.1.15}/leaflet-providers.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-leaflet-providers</tabTrigger>
+<description>Leaflet-providers</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

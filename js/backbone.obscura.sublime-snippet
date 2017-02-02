@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/backbone.obscura/${1:0.1.6}/backbone.obscura.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-backbone.obscura</tabTrigger>
+<description>Backbone.obscura</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

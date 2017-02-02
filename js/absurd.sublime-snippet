@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/absurd/${1:0.3.8}/absurd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-absurd</tabTrigger>
+<description>Absurd</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

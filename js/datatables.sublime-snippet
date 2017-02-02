@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/${1:1.10.13}/js/jquery.dataTables.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-datatables</tabTrigger>
+<description>Datatables</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

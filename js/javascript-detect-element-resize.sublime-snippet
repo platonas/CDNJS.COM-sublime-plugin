@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/javascript-detect-element-resize/${1:0.5.3}/detect-element-resize.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-javascript-detect-element-resize</tabTrigger>
+<description>Javascript-detect-element-resize</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

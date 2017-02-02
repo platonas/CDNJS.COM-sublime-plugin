@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/g9/${1:1.0.16}/g9.js"></script>
 ]]></content>
 <tabTrigger>cdn-g9</tabTrigger>
+<description>G9</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

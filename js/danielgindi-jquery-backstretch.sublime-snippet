@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/danielgindi-jquery-backstretch/${1:2.1.15}/jquery.backstretch.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-danielgindi-jquery-backstretch</tabTrigger>
+<description>Danielgindi-jquery-backstretch</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

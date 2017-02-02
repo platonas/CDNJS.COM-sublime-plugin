@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/load.js/${1:1316434407}/load-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-load.js</tabTrigger>
+<description>Load.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

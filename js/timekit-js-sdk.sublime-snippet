@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/timekit-js-sdk/${1:1.5.1}/timekit-sdk.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-timekit-js-sdk</tabTrigger>
+<description>Timekit-js-sdk</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

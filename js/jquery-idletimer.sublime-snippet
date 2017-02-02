@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-idletimer/${1:1.0.0}/idle-timer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-idletimer</tabTrigger>
+<description>Jquery-idletimer</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

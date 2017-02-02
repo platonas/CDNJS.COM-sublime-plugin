@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/signature_pad/${1:1.5.3}/signature_pad.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-signature_pad</tabTrigger>
+<description>Signature_pad</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

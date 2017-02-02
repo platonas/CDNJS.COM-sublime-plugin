@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/${1:1.4.1}/jquery.easing.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-easing</tabTrigger>
+<description>Jquery-easing</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

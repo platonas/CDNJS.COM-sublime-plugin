@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.dirtyforms.dialogs.bootstrap/${1:2.0.0}/jquery.dirtyforms.dialogs.bootstrap.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.dirtyforms.dialogs.bootstrap</tabTrigger>
+<description>Jquery.dirtyforms.dialogs.bootstrap</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

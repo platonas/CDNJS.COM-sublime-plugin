@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ideal-image-slider/${1:1.5.1}/ideal-image-slider.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ideal-image-slider</tabTrigger>
+<description>Ideal-image-slider</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

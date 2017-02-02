@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/cyclejs-dom/${1:10.1.0}/cycle-dom.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-cyclejs-dom</tabTrigger>
+<description>Cyclejs-dom</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

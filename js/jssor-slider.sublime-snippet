@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/${1:22.1.8}/jssor.slider.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jssor-slider</tabTrigger>
+<description>Jssor-slider</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

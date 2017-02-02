@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/${1:4.7.0}/css/font-awesome.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-font-awesome</tabTrigger>
+<description>Font-awesome</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

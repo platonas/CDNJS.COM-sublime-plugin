@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/${1:4.1.1}/masonry.pkgd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-masonry</tabTrigger>
+<description>Masonry</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

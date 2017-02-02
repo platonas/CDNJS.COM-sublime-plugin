@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar-sdk/${1:0.6.2}/stellar-sdk.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-stellar-sdk</tabTrigger>
+<description>Stellar-sdk</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

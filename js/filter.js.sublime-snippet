@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/filter.js/${1:1.5.2}/filter.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-filter.js</tabTrigger>
+<description>Filter.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

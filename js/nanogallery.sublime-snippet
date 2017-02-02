@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/nanogallery/${1:5.10.3}/jquery.nanogallery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-nanogallery</tabTrigger>
+<description>Nanogallery</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

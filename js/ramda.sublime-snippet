@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ramda/${1:0.23.0}/ramda.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ramda</tabTrigger>
+<description>Ramda</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

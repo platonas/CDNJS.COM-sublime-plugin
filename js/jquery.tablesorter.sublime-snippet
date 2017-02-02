@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/${1:2.28.5}/js/jquery.tablesorter.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.tablesorter</tabTrigger>
+<description>Jquery.tablesorter</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

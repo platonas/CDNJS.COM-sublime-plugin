@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-block-ui/${1:0.2.2}/angular-block-ui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-block-ui</tabTrigger>
+<description>Angular-block-ui</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

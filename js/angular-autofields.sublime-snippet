@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-autofields/${1:2.2.3}/autofields.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-autofields</tabTrigger>
+<description>Angular-autofields</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

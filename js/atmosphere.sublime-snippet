@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/atmosphere/${1:2.2.9}/atmosphere.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-atmosphere</tabTrigger>
+<description>Atmosphere</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/chrono-node/${1:1.2.5}/chrono.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-chrono-node</tabTrigger>
+<description>Chrono-node</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-ios-switch/${1:0.1.10}/bundle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-ios-switch</tabTrigger>
+<description>React-ios-switch</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

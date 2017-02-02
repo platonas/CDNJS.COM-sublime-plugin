@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/decimal.js/${1:7.1.1}/decimal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-decimal.js</tabTrigger>
+<description>Decimal.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

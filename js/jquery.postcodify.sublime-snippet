@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.postcodify/${1:3.4.1}/search.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.postcodify</tabTrigger>
+<description>Jquery.postcodify</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/picnic/${1:6.3.2}/picnic.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-picnic</tabTrigger>
+<description>Picnic</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

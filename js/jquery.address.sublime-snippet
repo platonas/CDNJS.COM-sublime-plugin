@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.address/${1:1.6}/jquery.address.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery.address</tabTrigger>
+<description>Jquery.address</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

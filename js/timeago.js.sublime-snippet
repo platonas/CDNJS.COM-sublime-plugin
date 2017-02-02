@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/timeago.js/${1:2.0.4}/timeago.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-timeago.js</tabTrigger>
+<description>Timeago.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/card/${1:2.1.1}/card.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-card</tabTrigger>
+<description>Card</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

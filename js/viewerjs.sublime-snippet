@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/${1:0.6.0}/viewer.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-viewerjs</tabTrigger>
+<description>Viewerjs</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/balloon-css/${1:0.4.0}/balloon.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-balloon-css</tabTrigger>
+<description>Balloon-css</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/classnames/${1:2.2.5}/index.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-classnames</tabTrigger>
+<description>Classnames</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

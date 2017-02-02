@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ready.js/${1:0.1.2}/ready.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ready.js</tabTrigger>
+<description>Ready.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/${1:2.5.2}/jasmine.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jasmine</tabTrigger>
+<description>Jasmine</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

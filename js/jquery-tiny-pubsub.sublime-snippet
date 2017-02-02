@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-tiny-pubsub/${1:0.7.0}/ba-tiny-pubsub.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-tiny-pubsub</tabTrigger>
+<description>Jquery-tiny-pubsub</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

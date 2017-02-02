@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/strophe.js/${1:1.2.12}/strophe.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-strophe.js</tabTrigger>
+<description>Strophe.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

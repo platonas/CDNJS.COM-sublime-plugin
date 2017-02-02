@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/yairEO-validator/${1:2.0.0}/validator.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-yairEO-validator</tabTrigger>
+<description>Yaireo-validator</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

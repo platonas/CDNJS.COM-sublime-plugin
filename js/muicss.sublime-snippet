@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/muicss/${1:0.9.8}/js/mui.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-muicss</tabTrigger>
+<description>Muicss</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-compat/${1:3.0.0-alpha1}/jquery.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-compat</tabTrigger>
+<description>Jquery-compat</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

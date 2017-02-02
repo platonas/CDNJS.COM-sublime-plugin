@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-bar-rating/${1:1.2.1}/jquery.barrating.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jquery-bar-rating</tabTrigger>
+<description>Jquery-bar-rating</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

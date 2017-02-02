@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fixed-data-table/${1:0.6.3}/fixed-data-table.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fixed-data-table</tabTrigger>
+<description>Fixed-data-table</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

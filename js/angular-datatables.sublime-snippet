@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-datatables/${1:0.6.0}/angular-datatables.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-datatables</tabTrigger>
+<description>Angular-datatables</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

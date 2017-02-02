@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/${1:39.2.5}/chromium/chromium_48x48.png"></script>
 ]]></content>
 <tabTrigger>cdn-browser-logos</tabTrigger>
+<description>Browser-logos</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

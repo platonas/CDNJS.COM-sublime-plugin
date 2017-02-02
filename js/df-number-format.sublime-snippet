@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/df-number-format/${1:2.1.6}/jquery.number.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-df-number-format</tabTrigger>
+<description>Df-number-format</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

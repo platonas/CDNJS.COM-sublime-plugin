@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-timepicker/${1:1.10.0}/jquery.timepicker.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-jquery-timepicker</tabTrigger>
+<description>Jquery-timepicker</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

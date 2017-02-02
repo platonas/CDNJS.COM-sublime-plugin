@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/${1:1.1.0}/vue-resource.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-vue-resource</tabTrigger>
+<description>Vue-resource</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

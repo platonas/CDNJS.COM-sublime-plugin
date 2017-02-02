@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/${1:1.0.7}/queue.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-queue-async</tabTrigger>
+<description>Queue-async</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

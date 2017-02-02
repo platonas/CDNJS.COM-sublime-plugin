@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/ratchet/${1:2.0.2}/js/ratchet.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-ratchet</tabTrigger>
+<description>Ratchet</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

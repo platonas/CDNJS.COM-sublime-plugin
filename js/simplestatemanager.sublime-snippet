@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/simplestatemanager/${1:2.2.5}/ssm.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-simplestatemanager</tabTrigger>
+<description>Simplestatemanager</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

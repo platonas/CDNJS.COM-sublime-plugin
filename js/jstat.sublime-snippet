@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jstat/${1:1.5.3}/jstat.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-jstat</tabTrigger>
+<description>Jstat</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

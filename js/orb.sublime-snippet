@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/orb/${1:1.0.9}/orb.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-orb</tabTrigger>
+<description>Orb</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

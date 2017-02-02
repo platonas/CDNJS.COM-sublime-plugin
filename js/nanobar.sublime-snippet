@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/nanobar/${1:0.4.2}/nanobar.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-nanobar</tabTrigger>
+<description>Nanobar</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

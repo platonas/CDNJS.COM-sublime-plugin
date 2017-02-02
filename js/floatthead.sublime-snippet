@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/floatthead/${1:2.0.1}/jquery.floatThead.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-floatthead</tabTrigger>
+<description>Floatthead</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

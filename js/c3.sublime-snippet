@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/${1:0.4.11}/c3.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-c3</tabTrigger>
+<description>C3</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tweet/${1:2.2.0}/jquery.tweet.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tweet</tabTrigger>
+<description>Tweet</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

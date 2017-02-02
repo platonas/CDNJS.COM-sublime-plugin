@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/remodal/${1:1.1.1}/remodal.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-remodal</tabTrigger>
+<description>Remodal</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/icono/${1:1.3.0}/icono.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-icono</tabTrigger>
+<description>Icono</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

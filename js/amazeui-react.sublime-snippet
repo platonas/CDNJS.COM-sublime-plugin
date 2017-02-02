@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/amazeui-react/${1:1.2.3}/amazeui.react.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-amazeui-react</tabTrigger>
+<description>Amazeui-react</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

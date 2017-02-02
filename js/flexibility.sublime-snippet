@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/flexibility/${1:2.0.1}/flexibility.js"></script>
 ]]></content>
 <tabTrigger>cdn-flexibility</tabTrigger>
+<description>Flexibility</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

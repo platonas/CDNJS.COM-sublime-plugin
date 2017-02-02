@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/flipcountdown/${1:3.0.5}/jquery.flipcountdown.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-flipcountdown</tabTrigger>
+<description>Flipcountdown</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

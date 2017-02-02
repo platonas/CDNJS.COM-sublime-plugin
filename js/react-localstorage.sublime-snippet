@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-localstorage/${1:0.3.0}/react-localstorage.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-localstorage</tabTrigger>
+<description>React-localstorage</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

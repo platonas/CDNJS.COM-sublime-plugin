@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Sidy.js/${1:1.1.0}/sidy.js"></script>
 ]]></content>
 <tabTrigger>cdn-Sidy.js</tabTrigger>
+<description>Sidy.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

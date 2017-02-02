@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/attrchange/${1:2.0.1}/attrchange.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-attrchange</tabTrigger>
+<description>Attrchange</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

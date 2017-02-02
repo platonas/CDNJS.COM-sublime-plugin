@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/livingston-css3-mediaqueries-js/${1:1.0.0}/css3-mediaqueries.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-livingston-css3-mediaqueries-js</tabTrigger>
+<description>Livingston-css3-mediaqueries-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

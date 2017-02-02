@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/floatlabels.js/${1:1.0.0}/floatlabels.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-floatlabels.js</tabTrigger>
+<description>Floatlabels.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

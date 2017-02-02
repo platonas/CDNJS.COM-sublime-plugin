@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/document-register-element/${1:1.3.0}/document-register-element.js"></script>
 ]]></content>
 <tabTrigger>cdn-document-register-element</tabTrigger>
+<description>Document-register-element</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

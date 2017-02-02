@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/lave/${1:1.1.10}/lave.js"></script>
 ]]></content>
 <tabTrigger>cdn-lave</tabTrigger>
+<description>Lave</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

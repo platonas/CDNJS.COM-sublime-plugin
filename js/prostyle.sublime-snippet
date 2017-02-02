@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/prostyle/${1:1.2.0}/prostyle.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-prostyle</tabTrigger>
+<description>Prostyle</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/svgeezy/${1:1.0.0}/svgeezy.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-svgeezy</tabTrigger>
+<description>Svgeezy</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

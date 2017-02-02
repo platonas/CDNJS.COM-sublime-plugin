@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular2-polyfill/${1:0.0.32}/angular2-polyfill.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular2-polyfill</tabTrigger>
+<description>Angular2-polyfill</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/qwerty-hancock/${1:0.5.1}/qwerty-hancock.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-qwerty-hancock</tabTrigger>
+<description>Qwerty-hancock</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

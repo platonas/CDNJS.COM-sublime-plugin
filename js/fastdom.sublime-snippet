@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/fastdom/${1:1.0.5}/fastdom.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-fastdom</tabTrigger>
+<description>Fastdom</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

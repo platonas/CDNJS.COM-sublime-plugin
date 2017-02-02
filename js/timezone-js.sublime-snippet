@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/timezone-js/${1:0.4.13}/date.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-timezone-js</tabTrigger>
+<description>Timezone-js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

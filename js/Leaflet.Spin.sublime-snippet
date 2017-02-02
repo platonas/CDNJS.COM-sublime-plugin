@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.Spin/${1:1.1.0}/leaflet.spin.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Leaflet.Spin</tabTrigger>
+<description>Leaflet.spin</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/Nestable/${1:2012-10-15}/jquery.nestable.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-Nestable</tabTrigger>
+<description>Nestable</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/please-wait/${1:0.0.5}/please-wait.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-please-wait</tabTrigger>
+<description>Please-wait</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

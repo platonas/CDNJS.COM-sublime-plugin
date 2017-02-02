@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/visibility.js/${1:1.2.4}/visibility.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-visibility.js</tabTrigger>
+<description>Visibility.js</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

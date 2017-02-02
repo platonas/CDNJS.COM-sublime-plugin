@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/animsition/${1:4.0.2}/js/animsition.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-animsition</tabTrigger>
+<description>Animsition</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-foundation-apps/${1:0.6.1}/react-foundation-apps.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-foundation-apps</tabTrigger>
+<description>React-foundation-apps</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

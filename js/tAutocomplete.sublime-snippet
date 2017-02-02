@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/tAutocomplete/${1:1.0.0}/tautocomplete.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-tAutocomplete</tabTrigger>
+<description>Tautocomplete</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-ui-bootstrap/${1:0.5pre}/assets/css/bootstrap.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-jquery-ui-bootstrap</tabTrigger>
+<description>Jquery-ui-bootstrap</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/geopattern/${1:1.2.3}/js/geopattern.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-geopattern</tabTrigger>
+<description>Geopattern</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

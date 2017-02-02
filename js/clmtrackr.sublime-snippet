@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/clmtrackr/${1:1.0.0}/clmtrackr.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-clmtrackr</tabTrigger>
+<description>Clmtrackr</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

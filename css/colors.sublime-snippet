@@ -2,6 +2,7 @@
 <content><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/colors/${1:1.0}/colors.${2:min.}css" />
 ]]></content>
 <tabTrigger>cdn-colors</tabTrigger>
+<description>Colors</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

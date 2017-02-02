@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap-table/${1:2.10.0}/react-bootstrap-table.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-react-bootstrap-table</tabTrigger>
+<description>React-bootstrap-table</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

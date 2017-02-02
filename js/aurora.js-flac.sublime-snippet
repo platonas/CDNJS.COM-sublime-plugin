@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/aurora.js-flac/${1:0.2.1}/flac.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-aurora.js-flac</tabTrigger>
+<description>Aurora.js-flac</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

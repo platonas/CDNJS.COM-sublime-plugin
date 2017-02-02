@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/node-uuid/${1:1.4.7}/uuid.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-node-uuid</tabTrigger>
+<description>Node-uuid</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

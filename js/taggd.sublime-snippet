@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/taggd/${1:3.1.1}/taggd.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-taggd</tabTrigger>
+<description>Taggd</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

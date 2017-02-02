@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/typeis/${1:1.1.1}/typeis.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-typeis</tabTrigger>
+<description>Typeis</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

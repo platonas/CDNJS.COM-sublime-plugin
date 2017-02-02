@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/luminateExtend/${1:1.8.1}/luminateExtend.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-luminateExtend</tabTrigger>
+<description>Luminateextend</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/okayNav/${1:2.0.4}/js/jquery.okayNav-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-okayNav</tabTrigger>
+<description>Okaynav</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-codemirror/${1:0.3.0}/ui-codemirror.${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-angular-ui-codemirror</tabTrigger>
+<description>Angular-ui-codemirror</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>

@@ -2,6 +2,7 @@
 <content><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/imgLiquid/${1:0.9.944}/js/imgLiquid-${2:min.}js"></script>
 ]]></content>
 <tabTrigger>cdn-imgLiquid</tabTrigger>
+<description>Imgliquid</description>
 <scope>text.html</scope>
 <scope>text.css</scope>
 <scope>text.js</scope>
